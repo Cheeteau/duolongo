@@ -20,7 +20,7 @@ function getMarkdowns(){
             const request = await fetch(`/dokyLangues/markdown/${markdown.name}.md`);
             const name = markdown.name;
 
-            if (!retrieveMarkdownData()[name]) markdownContents[name] = request;
+            if (!retrieveMarkdownData()[name]) markdownContents[name] = request.body;
         }
     
         saveMarkdownData();
