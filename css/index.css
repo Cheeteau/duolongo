@@ -119,7 +119,7 @@ aside {
     border-right: 2px solid var(--main-grey);
 }
 aside ul {
-    width: 55%;
+    width: 45%;
     margin: 0;
     padding: 4vh 2vw;
 }
@@ -159,6 +159,7 @@ section {
 aside#content {
     border-right: none;
     border-left: 2px solid var(--main-grey);
+    width: 30vw;
 }
 
 
