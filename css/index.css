@@ -120,6 +120,9 @@ aside {
     border-right: 2px solid var(--main-grey);
 }
 aside ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 100%;
     margin: 0;
     padding: 4vh 2vw;
@@ -133,7 +136,7 @@ aside ul li {
     border-radius: 5px;
     transition: background-color .4s ease;
     cursor: pointer;
-    padding: .8vh 0;
+    padding: .8vh 0 .8vh 1vw;
 }
 aside ul li:not(.button):hover { background-color: var(--light-grey); }
 aside ul li .flags { 
