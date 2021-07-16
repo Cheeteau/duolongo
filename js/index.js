@@ -14,10 +14,10 @@ const available = [
 function getMarkdowns(){
     return new Promise(async (res, rej) => {
         for (const markdown of available){
-            const request = await fetch(`/dokyLangues/markdown/${markdown.name}.md`);
+            const request = await (await fetch(`/dokyLangues/markdown/${markdown.name}.md`)).text();
             const name = markdown.name;
 
-            markdownContents[name] = await request.json();
+            markdownContents[name] = request;
         }
 
         return res();
