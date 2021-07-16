@@ -178,7 +178,7 @@ aside#content ul { width: 100%; }
 }
 
 /* Responsive */
-@media screen and (min-width: 800px) {
+@media screen and (max-width: 800px) {
     aside {
         width: 0;
         overflow: hidden;
