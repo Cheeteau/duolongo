@@ -180,7 +180,7 @@ aside#content ul { width: 100%; }
 /* Responsive */
 @media screen and (max-width: 800px) {
     aside {
-        width: 0;
+        width: 0 !important;
         overflow: hidden;
         border: none;
     }
