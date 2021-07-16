@@ -184,7 +184,7 @@ button.tel {
     box-shadow: 0px 5px 20px -5px rgb(0 0 0 / 80%);
 }
 button.tel#left {
-    bottom: 2vh;
+    top: 2vh;
     left: 2vh;
 }
 button.tel#right {
