@@ -16,6 +16,14 @@ const available = [
     {
         name: "russe",
         emoji: "🇷🇺"
+    },
+    {
+        name: "allemand",
+        emoji: "🇩🇪"
+    },
+    {
+        name: "turc",
+        emoji: "🇹🇷"
     }
 ];
 
