@@ -120,20 +120,21 @@ aside {
     border-right: 2px solid var(--main-grey);
 }
 aside ul {
-    width: 45%;
+    width: 100%;
     margin: 0;
     padding: 4vh 2vw;
 }
 aside ul li {
     display: flex;
+    justify-content: center;
     align-items: center;
     width: 100%;
     font-weight: bold;
     border-radius: 5px;
     transition: background-color .4s ease;
     cursor: pointer;
+    padding: .8vh 0;
 }
-aside:not(#content) ul li { justify-content: center; }
 aside ul li:not(.button):hover { background-color: var(--light-grey); }
 aside ul li .flags { 
     width: 2.5rem;
@@ -161,7 +162,7 @@ aside#content {
     border-left: 2px solid var(--main-grey);
     width: 30vw;
 }
-aside#content ul { width: 60%; }
+aside#content ul { width: 100%; }
 
 /* Animations */
 @keyframes fadeIn {
