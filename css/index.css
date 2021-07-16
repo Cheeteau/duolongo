@@ -156,7 +156,6 @@ section {
     height: 95vh;
     padding: 2vh 4vw;
     overflow-x: auto;
-    transition: transform .8s ease, width .8s ease;
 }
 
 

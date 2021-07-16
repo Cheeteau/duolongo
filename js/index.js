@@ -97,7 +97,6 @@ function closeAside(aside){
     buttons.forEach(btn => btn.style.display = "block");
 
     const section = document.querySelector("section");
-    section.style.setProperty("transform", "translateX(0)", "important");
     section.style.setProperty("width", "100vw", "important");
     section.style.setProperty("padding", "3vh 6vw", "important");
 
@@ -109,7 +108,6 @@ function openAside(aside){
     buttons.forEach(btn => btn.style.display = "none");
 
     const section = document.querySelector("section");
-    section.style.setProperty("transform", "translateX(100vw)", "important");
     section.style.setProperty("width", "0", "important");
     section.style.setProperty("padding", "0", "important");
 
