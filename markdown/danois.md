@@ -13,13 +13,11 @@ Codes ALT pour les lettres Danoises
 
 ## Utile à savoir
 
--
 |Français|Danois|
 |--|--|
 |Oui|Ja|
 |Non|Nej|
 
--
 |Français|Danois|
 |--|--|
 |Qui|Hvem|
