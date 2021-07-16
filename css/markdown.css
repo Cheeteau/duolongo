@@ -53,14 +53,6 @@ td { text-align:center; }
 caption { font-weight:bold }
 
 
-/* Additional */
-img {
-    border-radius: 3px;
-    width: 90vh;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.13);
-}
-
-
 /* Paragraphs */
 p { font-size: 1.8vh; }
 
