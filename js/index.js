@@ -70,8 +70,9 @@ function displayMarkdown(lang){
         openAside(aside);
     });
 
-    langMd.querySelectorAll("*").forEach(element => {
+    langMd.querySelectorAll("h1, h2, h3, h4, h5").forEach(element => {
         if (!element.id) return;
+
         element.addEventListener("click", () => scrollToElement(element.id));
 
         const li = document.createElement("li");
