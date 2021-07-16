@@ -176,3 +176,15 @@ aside#content ul { width: 100%; }
     from {transform: scale(0);}
     to {transform: scale(1);}
 }
+
+/* Responsive */
+@media screen and (min-width: 800px) {
+    aside {
+        width: 0;
+        overflow: hidden;
+        border: none;
+    }
+    section {
+        padding: 3vh 6vw;
+    }
+}
