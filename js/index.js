@@ -97,8 +97,7 @@ function closeAside(aside){
     buttons.forEach(btn => btn.style.display = "block");
 
     const section = document.querySelector("section");
-    section.style.setProperty("padding", "3vh 6vw", "important");
-    section.style.setProperty("width", "100vw", "important");
+    section.style.setProperty("transform", "translateX(0)", "important");
     aside.style.setProperty("width", "0", "important");
 }
 
@@ -107,8 +106,7 @@ function openAside(aside){
     buttons.forEach(btn => btn.style.display = "none");
 
     const section = document.querySelector("section");
-    section.style.setProperty("padding", "0", "important");
-    section.style.setProperty("width", "0", "important");
+    section.style.setProperty("transform", "translateX(100vw)", "important");
     aside.style.setProperty("width", "100vw", "important");
 
     aside.querySelectorAll("li").forEach(e => e.addEventListener("click", () => closeAside(aside)));
@@ -123,8 +121,8 @@ function openAside(aside){
         openAside(aside);
     });
 
-    document.querySelector("#right").addEventListener("click", () => {
-        const aside = document.querySelector("aside#content");
-        openAside(aside);
-    });
+    // document.querySelector("#right").addEventListener("click", () => {
+    //     const aside = document.querySelector("aside#content");
+    //     openAside(aside);
+    // });
 })();
