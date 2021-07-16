@@ -17,7 +17,6 @@ function getMarkdowns(){
             const request = await (await fetch(`/dokyLangues/markdown/${markdown.name}.md`)).text();
             const name = markdown.name;
 
-            console.log(typeof reuqest);
             markdownContents[name] = request;
         }
         return res();
@@ -30,6 +29,11 @@ function getTwitterFlagFromEmoji(emoji){
     return `https://abs-0.twimg.com/emoji/v2/svg/${emojiFirst}-${emojiSecond}.svg`;
 }
 
+function displayMarkdown(lang){
+    const markdown = markdownContents[lang];
+    console.log(markdown);
+}
+
 async function displayLanguages(){
     await getMarkdowns();
     
@@ -38,6 +42,8 @@ async function displayLanguages(){
         const langName = lang.name.charAt(0).toUpperCase() + lang.name.substring(1);
 
         li.innerHTML = `<img class="flags" src="${getTwitterFlagFromEmoji(lang.emoji)}"> ${langName}`;
+        li.addEventListener("click", () => displayMarkdown(lang.name));
+
         langsList.append(li);
     }
 }
@@ -45,4 +51,5 @@ async function displayLanguages(){
 /* Main async function */
 (async () => {
     displayLanguages();
+    console.log(markdownContents);
 })();
