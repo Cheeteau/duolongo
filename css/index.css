@@ -218,6 +218,6 @@ button.tel:hover {background-color: var(--light-main-color);}
         height: 85vh !important;
     }
     li {
-        padding: .8vh 0 .8vh 6vw;
+        padding: .8vh 0 .8vh 6vw !important;
     }
 }
