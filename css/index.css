@@ -166,6 +166,30 @@ aside#content {
 }
 aside#content ul { width: 100%; }
 
+
+/* Boutons portables */
+button.tel {
+    display: none;
+    position: fixed;
+    width: 80px;
+    height: 45px;
+    border: none;
+    color: white;
+    background: var(--main-color);
+    border-radius: 50px;
+    font-family: Poppins, sans-serif;
+    font-size: 5vw;
+    font-weight: bold;
+}
+button.tel#left {
+    bottom: 2vh;
+    left: 2vh;
+}
+button.tel#right {
+    bottom: 2vh;
+    right: 2vh;
+}
+
 /* Animations */
 @keyframes fadeIn {
     from {opacity: 0;}
@@ -179,6 +203,7 @@ aside#content ul { width: 100%; }
 
 /* Responsive */
 @media screen and (max-width: 800px) {
+    button.tel {display: block;}
     aside {
         width: 0 !important;
         overflow: hidden;
