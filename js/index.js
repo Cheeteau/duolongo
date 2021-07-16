@@ -11,19 +11,15 @@ const available = [
 ];
 
 /* Functions */
-function saveMarkdownData(){ window.localStorage.setItem("markdowns", JSON.stringify(markdownContents)); }
-function retrieveMarkdownData(){ return JSON.parse(window.localStorage.getItem("markdowns")); }
-
 function getMarkdowns(){
     return new Promise(async (res, rej) => {
         for (const markdown of available){
             const request = await fetch(`/dokyLangues/markdown/${markdown.name}.md`);
             const name = markdown.name;
 
-            if (!retrieveMarkdownData()[name]) markdownContents[name] = request.body;
+            markdownContents[name] = await request.json();
         }
-    
-        saveMarkdownData();
+
         return res();
     });
 }
@@ -35,6 +31,5 @@ async function displayLanguages(){
 
 /* Main async function */
 (async () => {
-    if (retrieveMarkdownData() == null) saveMarkdownData() && window.location.reload();
     displayLanguages();
 })();
