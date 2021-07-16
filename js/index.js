@@ -35,9 +35,9 @@ async function displayLanguages(){
     
     for (const lang of available){
         const li = document.createElement("li");
-        const langName = lang.name.charAt(0).toUpperCase() + lang.name.substr(0, 1);
+        const langName = lang.name.charAt(0).toUpperCase() + lang.name.substring(1);
 
-        li.innerHTML = `<img src="${getTwitterFlagFromEmoji(lang.emoji)}"> ${langName}`;
+        li.innerHTML = `<img class="flags" src="${getTwitterFlagFromEmoji(lang.emoji)}"> ${langName}`;
         langsList.append(li);
     }
 }
