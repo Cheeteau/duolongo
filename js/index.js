@@ -98,7 +98,7 @@ function closeAside(aside){
 
     const section = document.querySelector("section");
     section.style.setProperty("width", "100vw", "important");
-    section.style.setProperty("padding", "10vh 6vw", "important");
+    section.style.setProperty("padding", "3vh 6vw", "important");
 
     aside.style.setProperty("width", "0", "important");
 }
