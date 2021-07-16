@@ -18,7 +18,7 @@ function getMarkdowns(){
     return new Promise(async (res, rej) => {
         for (const markdown of available){
             const request = await fetch(`/markdown/${markdown.name}`);
-            const name = markdown.name.split(".")[1];
+            const name = markdown.name.split(".")[0];
     
             if (!retrieveMarkdownData()[name]) markdownContents[name] = request;
         }
