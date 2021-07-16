@@ -180,7 +180,7 @@ button.tel {
     font-family: Poppins, sans-serif;
     font-size: 5vw;
     font-weight: bold;
-    transition: background-color .4s ease;
+    transition: background-color .4s ease, opacity .4s ease;
     opacity: .5;
 }
 button.tel#left {
