@@ -4,7 +4,10 @@ const langMd = document.querySelector("#_langMarkdown");
 
 const markdownContents = {};
 const available = [
-    "🇩🇰.danois.md"
+    {
+        name: "danois.md",
+        emote: "🇩🇰"
+    }
 ];
 
 /* Functions */
@@ -14,8 +17,8 @@ function retrieveMarkdownData(){ return window.localStorage.getItem("markdowns")
 function getMarkdowns(){
     return new Promise(async (res, rej) => {
         for (const markdown of available){
-            const request = await fetch(`/markdown/${markdown}`);
-            const name = markdown.split(".")[1];
+            const request = await fetch(`/markdown/${markdown.name}`);
+            const name = markdown.name.split(".")[1];
     
             if (!retrieveMarkdownData()[name]) markdownContents[name] = request;
         }
