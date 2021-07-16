@@ -81,7 +81,7 @@ Codes ALT pour les lettres Danoises
 |Car||
 
 
-## Verbes appris
+## Verbes
 
 
 - Être: **Er**
@@ -151,7 +151,7 @@ Codes ALT pour les lettres Danoises
 |Ils disent|De siger|
 
 
-## Mots appris
+## Vocabulaire
 
 - Utile
 

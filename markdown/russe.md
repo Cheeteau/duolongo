@@ -30,7 +30,7 @@ Contributeur(s): Alan
 |Leur|||||
 |Votre|Ваш|Ваша|Ваше|Ваши|
 
-## Verbes appris
+## Verbes
 
 * Manger : **есть**
 
@@ -43,7 +43,7 @@ Contributeur(s): Alan
 |Vous mangez|Вы едите|
 |Ils / Elles / Neutres|Они едят|
 
-## Mots appris
+## Vocabulaire
 
 * Utile :
 
