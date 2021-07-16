@@ -43,7 +43,7 @@ table {
     border-collapse: collapse;
     min-width: 5vh;
 }
-tr { background: var(--light-grey); }
+th { background: var(--light-grey); }
 th, td {
     padding: .5pc;
     border: 1px solid #cacaca;
