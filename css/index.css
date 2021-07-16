@@ -181,6 +181,7 @@ button.tel {
     font-size: 5vw;
     font-weight: bold;
     transition: background-color .4s ease;
+    opacity: .5;
 }
 button.tel#left {
     bottom: 2vh;
@@ -190,7 +191,7 @@ button.tel#right {
     bottom: 2vh;
     right: 2vh;
 }
-button.tel:hover {background-color: var(--light-main-color);}
+button.tel:hover {background-color: var(--light-main-color);opacity: 1;}
 
 
 /* Animations */
@@ -214,7 +215,6 @@ button.tel:hover {background-color: var(--light-main-color);}
     }
     section {
         padding: 3vh 6vw;
-        height: 85vh !important;
     }
     li {
         padding: .8vh 0 .8vh 6vw !important;
