@@ -17,7 +17,7 @@ function getMarkdowns(){
             const request = await (await fetch(`/dokyLangues/markdown/${markdown.name}.md`)).text();
             const name = markdown.name;
 
-            markdownContents[name] = request;
+            markdownContents[name].data = `${request}`;
         }
 
         return res();
