@@ -17,7 +17,7 @@ function retrieveMarkdownData(){ return window.localStorage.getItem("markdowns")
 function getMarkdowns(){
     return new Promise(async (res, rej) => {
         for (const markdown of available){
-            const request = await fetch(`/markdown/${markdown.name}.md`);
+            const request = await fetch(`./markdown/${markdown.name}.md`);
             const name = markdown.name;
 
             if (!retrieveMarkdownData()[name]) markdownContents[name] = request;
