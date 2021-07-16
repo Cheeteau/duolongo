@@ -1,0 +1,74 @@
+/* Brand Texts */
+h1 { font-size: 4vh; }
+h2 {
+    font-size: 3vh;
+    margin-top: 4pc;
+}
+h3 {
+    font-size: 2vh;
+    margin-top: 2.5pc;
+}
+
+
+/* Code */
+pre {
+    width: fit-content;
+    font-size: 1.5vh;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.13);
+}
+pre code {
+    padding: 1.5pc !important;
+    border-radius: 3px;
+}
+
+blockquote {
+    background-color: white;
+    color: black;
+    border-left: 5px solid #3884ff;
+    margin: 4pc 0 4pc 0;
+    padding: 25px;
+    border-radius: 3px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.13);
+}
+
+p code {
+    padding: 5px 10px;
+    border: 1px solid #00000029;
+    border-radius: 3px;
+    margin: 0 5px 0 5px;
+    font-size: 1.5vh;
+}
+
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    min-width: 5vh;
+}
+
+th, td {
+    padding: .5pc;
+    border: 1px solid #cacaca;
+    width:20%;
+}
+td { text-align:center; }
+caption { font-weight:bold }
+
+
+/* Additional */
+img {
+    border-radius: 3px;
+    width: 90vh;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.13);
+}
+
+
+/* Paragraphs */
+p { font-size: 1.8vh; }
+
+
+/* Media */
+@media screen and (max-width: 640px){
+    pre { width: 100% !important; }
+    img { width: 100% !important; }
+}
