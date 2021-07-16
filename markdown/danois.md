@@ -1,4 +1,5 @@
 # DANOIS
+Contributeurs: Martin
 
 Codes ALT pour les lettres Danoises
 |Lettres|Codes ALT|
@@ -13,11 +14,6 @@ Codes ALT pour les lettres Danoises
 
 ## A retenir
 
-|Français|Danois|
-|--|--|
-|Oui|Ja|
-|Non|Nej|
-
 
 |Français|Danois|
 |--|--|
@@ -31,6 +27,7 @@ Codes ALT pour les lettres Danoises
 |--|--|
 |Un/Une|En/Et|
 |C'est|Den/Det|
+|Pas (Je ne suis pas)|Ikke (Jeg er ikke)|
 
 
 |Français|Danois|
@@ -142,8 +139,34 @@ Codes ALT pour les lettres Danoises
 |Nous lisons|Vi læser|
 |Ils lisent|De læser|
 
+- Dire: **Sig**
+
+|Français|Danois|
+|--|--|
+|Je dis|Jeg siger|
+|Tu dis|Du siger|
+|Il dit|Han siger|
+|Elle dit|Hun siger|
+|Nous disons|Vi siger|
+|Ils disent|De siger|
+
 
 ## Mots appris
+
+- Utile
+
+|Français|Danois|
+|--|--|
+|Oui|Ja|
+|Non|Nej|
+|Merci|Tak|
+|Bonjour|Hej|
+|Bonsoir|Godaften|
+|Bon matin|Godmorgen|
+|Bonne nuit|Godnat|
+|Joyeux|Glad|
+|Bye bye|Hej hej|
+|Au revoir|Farvel|
 
 - Personnes
 
