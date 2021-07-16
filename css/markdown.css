@@ -42,6 +42,7 @@ p code {
 table {
     border-collapse: collapse;
     min-width: 5vh;
+    margin-bottom: 5vh;
 }
 th { background: var(--light-grey); }
 th, td {
