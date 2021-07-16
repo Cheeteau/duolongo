@@ -205,3 +205,9 @@ Codes ALT pour les lettres Danoises
 |Journal|Avis|Aviser|
 |Livre|Bog|Bøger|
 |Menu|Menu|Menuer|
+
+# Phrases
+
+|Français|Danois|
+|--|--|
+|Je vais bien|Jeg har det godt/fint|
