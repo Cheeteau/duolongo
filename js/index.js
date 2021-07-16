@@ -98,7 +98,8 @@ function openAside(aside){
 
     const section = document.querySelector("section");
     section.style.padding = "0";
-    aside.style.width = "100vw";
+    section.style.width = "0 !important";
+    aside.style.width = "100vw !important";
 }
 
 /* Main async function */
