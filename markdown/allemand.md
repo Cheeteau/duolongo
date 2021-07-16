@@ -1,4 +1,4 @@
 # Allemand
-Contributeurs: Martin, Alan, Serdar
+Contributeur(s): Martin, Alan, Serdar
 
 En cours...

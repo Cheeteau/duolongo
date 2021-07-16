@@ -1,5 +1,5 @@
 # RUSSE
-Contributeurs: Alan
+Contributeur(s): Alan
 
 ## Pronoms personnels
 

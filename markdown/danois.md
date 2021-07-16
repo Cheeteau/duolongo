@@ -1,5 +1,5 @@
 # DANOIS
-Contributeurs: Martin
+Contributeur(s): Martin
 
 Codes ALT pour les lettres Danoises
 |Lettres|Codes ALT|

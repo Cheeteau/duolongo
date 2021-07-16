@@ -1,4 +1,4 @@
 # TURC
-Contributeur: Serdar
+Contributeur(s): Serdar
 
 En cours...
