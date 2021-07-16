@@ -111,7 +111,7 @@ function openAside(aside){
     section.style.setProperty("width", "0", "important");
     aside.style.setProperty("width", "100vw", "important");
 
-    aside.querySelectorAll("li").addEventListener("click", () => closeAside(aside));
+    aside.querySelectorAll("li").forEach(e => eaddEventListener("click", () => closeAside(aside)));
 }
 
 /* Main async function */

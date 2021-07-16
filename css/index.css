@@ -211,13 +211,13 @@ button.tel:hover {background-color: var(--light-main-color);}
     aside {
         width: 0 !important;
         overflow: hidden;
-        border: none !important;
+        /* border: none !important; */
     }
     section {
         padding: 3vh 6vw;
         height: 85vh !important;
     }
     li {
-        justify-content: center;
+        padding: .8vh 0 .8vh 6vw;
     }
 }
