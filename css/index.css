@@ -150,7 +150,7 @@ section {
     display: flex;
     flex-direction: column;
     width: 100vw;
-    height: 100%;
+    height: 95vh;
     padding: 2vh 4vw;
     overflow-x: auto;
 }

@@ -51,10 +51,10 @@ async function displayLanguages(){
 
         langsList.append(li);
     }
+    langsList.children[0].click();
 }
 
 /* Main async function */
 (async () => {
     displayLanguages();
-    langsList.children[0].click();
 })();
