@@ -156,6 +156,7 @@ section {
     height: 95vh;
     padding: 2vh 4vw;
     overflow-x: auto;
+    transition: transform .8s ease, width .8s ease;
 }
 
 
@@ -216,7 +217,6 @@ button.tel:hover {background-color: var(--light-main-color);}
     section {
         padding: 3vh 6vw;
         height: 85vh !important;
-        transition: transform .8s ease;
     }
     li {
         padding: .8vh 0 .8vh 6vw !important;
