@@ -11,8 +11,8 @@ const available = [
 ];
 
 /* Functions */
-function saveMarkdownData(){ window.localStorage.setItem("markdowns", markdownContents); }
-function retrieveMarkdownData(){ return window.localStorage.getItem("markdowns"); }
+function saveMarkdownData(){ window.localStorage.setItem("markdowns", JSON.stringify(markdownContents)); }
+function retrieveMarkdownData(){ return JSON.parse(window.localStorage.getItem("markdowns")); }
 
 function getMarkdowns(){
     return new Promise(async (res, rej) => {
