@@ -20,7 +20,6 @@
 * {
     outline: none;
     user-select: none;
-    overflow: hidden;
 }
 *:disabled, *[aria-disabled=true] {
     opacity: .5;
@@ -34,6 +33,7 @@ html {
     scrollbar-width: .3pc;
     scrollbar-color: #fff #c5c5c5;
     scroll-behavior: smooth;
+    overflow: hidden;
 }
 main {
     display: flex;

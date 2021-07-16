@@ -56,5 +56,5 @@ async function displayLanguages(){
 /* Main async function */
 (async () => {
     displayLanguages();
-    langsList.querySelector("li:first-child").click();
+    langsList.children[0].click();
 })();
