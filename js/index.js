@@ -17,7 +17,7 @@ function getMarkdowns(){
             const request = await fetch(`/markdown/${markdown}`);
             const name = markdown.split(".")[1];
     
-            if (!retrieveMarkdownData()[name] || retrieveMarkdownData() == null) markdownContents[name] = request;
+            if (!retrieveMarkdownData()[name]) markdownContents[name] = request;
         }
     
         saveMarkdownData();
@@ -26,12 +26,12 @@ function getMarkdowns(){
 }
 
 async function displayLanguages(){
-    const get = await getMarkdowns();
+    await getMarkdowns();
     console.log(markdownContents);
 }
 
 /* Main async function */
 (async () => {
-    if (markdownContents == null) saveMarkdownData();
+    if (markdownContents == null) saveMarkdownData() && window.location.reload();
     displayLanguages();
 })();
