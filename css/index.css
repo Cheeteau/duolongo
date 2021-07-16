@@ -216,7 +216,7 @@ button.tel:hover {background-color: var(--light-main-color);}
     section {
         padding: 3vh 6vw;
         height: 85vh !important;
-        transition: transform .4s ease;
+        transition: transform .4s ease, width .4s ease, padding .4s ease;
     }
     li {
         padding: .8vh 0 .8vh 6vw !important;
