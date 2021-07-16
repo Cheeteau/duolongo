@@ -20,6 +20,7 @@
 * {
     outline: none;
     user-select: none;
+    overflow: hidden;
 }
 *:disabled, *[aria-disabled=true] {
     opacity: .5;
