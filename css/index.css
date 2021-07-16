@@ -118,6 +118,7 @@ aside {
     display: flex;
     width: 25vw;
     border-right: 2px solid var(--main-grey);
+    transition: width .4s ease;
 }
 aside ul {
     display: flex;
