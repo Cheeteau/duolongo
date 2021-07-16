@@ -1,6 +1,7 @@
 /* Variables */
 const langsList = document.querySelector("#_langsList");
 const langMd = document.querySelector("#_langMarkdown");
+const contentTable = document.querySelector("#_contentTable");
 
 const markdownContents = {};
 const available = [
@@ -23,6 +24,13 @@ function getMarkdowns(){
     });
 }
 
+function scrollToElement(id){
+    id.toLowerCase().replace(/[^\w\s]+/gi, '');
+    const element = document.getElementById(id.replace(/ +/g, "")); //Get element by id
+    const topPos = element.offsetTop;
+    document.getElementsByClassName("content")[0].scroll(0, topPos - 143);
+}
+
 function getTwitterFlagFromEmoji(emoji){
     const emojiFirst = emoji.codePointAt(0).toString(16);
     const emojiSecond = emoji.codePointAt(2).toString(16);
@@ -30,6 +38,9 @@ function getTwitterFlagFromEmoji(emoji){
 }
 
 function displayMarkdown(lang){
+    contentTable.innerHTML = "";
+    window.scrollTo(0, 0);
+
     const markdown = markdownContents[lang];
     const converter = new showdown.Converter({
         tables: true
@@ -37,6 +48,18 @@ function displayMarkdown(lang){
     const html = converter.makeHtml(markdown);
 
     langMd.innerHTML = html;
+
+    langMd.querySelectorAll("*").forEach(element => {
+        if (!element.id) return;
+        element.addEventListener("click", () => scrollToElement(element.id));
+
+        const li = document.createElement("li");
+        li.textContent = element.innerHTML.toUpperCase().replace(/[^\w\s]/gi, "");
+
+        li.addEventListener("click", () => scrollToElement(li.textContent.toLowerCase()));
+
+        _contentTable.append(li);
+    });
 }
 
 async function displayLanguages(){
