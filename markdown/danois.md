@@ -40,13 +40,13 @@ Codes ALT pour les lettres Danoises
 |Il|Han|
 |Elle|Hun|
 |Nous|Vi|
-|Ils|De|
+|Ils/Elles|De|
 
 
 |Français|Danois|
 |--|--|
 |Moi|Mig|
-|Toi|Du|
+|Toi|Dig|
 |Lui|Ham|
 |Elle|Hende|
 |Nous|Os|
