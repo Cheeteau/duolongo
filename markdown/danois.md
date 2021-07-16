@@ -1,6 +1,7 @@
 # DANOIS
 Contributeur(s): Martin
 
+
 Codes ALT pour les lettres Danoises
 |Lettres|Codes ALT|
 |--|--|
@@ -95,6 +96,7 @@ Codes ALT pour les lettres Danoises
 |Nous sommes|Vi er|
 |Ils sont|De er|
 
+
 - Avoir: **Har**
 
 |Français|Danois|
@@ -105,6 +107,7 @@ Codes ALT pour les lettres Danoises
 |Elle a|Hun har|
 |Nous avons|Vi har|
 |Ils ont|De har|
+
 
 - Manger: **Spise**
 
@@ -117,6 +120,7 @@ Codes ALT pour les lettres Danoises
 |Nous mangeons|Vi spiser|
 |Ils mangent|De spiser|
 
+
 - Boire: **Drikke**
 
 |Français|Danois|
@@ -128,6 +132,7 @@ Codes ALT pour les lettres Danoises
 |Nous buvons|Vi drikker|
 |Ils boivent|De drikker|
 
+
 - Lire: **Læs**
 
 |Français|Danois|
@@ -138,6 +143,7 @@ Codes ALT pour les lettres Danoises
 |Elle lit|Hun læser|
 |Nous lisons|Vi læser|
 |Ils lisent|De læser|
+
 
 - Dire: **Sig**
 
@@ -153,6 +159,7 @@ Codes ALT pour les lettres Danoises
 
 ## Vocabulaire
 
+
 - Utile
 
 |Français|Danois|
@@ -164,6 +171,7 @@ Codes ALT pour les lettres Danoises
 |Peut-être|Måske|
 |Désolé|Undskyld|
 |Joyeux|Glad|
+
 
 - Salutations
 
@@ -177,6 +185,7 @@ Codes ALT pour les lettres Danoises
 |Au revoir|Farvel|
 |Bienvenue|Velkommen|
 
+
 - Personnes
 
 |Français|Danois|Danois Pluriel|
@@ -186,6 +195,7 @@ Codes ALT pour les lettres Danoises
 |Garçon(s)|Dreng|Drenge|
 |Fille(s)|Pige|Piger|
 |Enfant(s)|Barn|Børn|
+
 
 - Nourriture / Boissons
 
@@ -198,6 +208,7 @@ Codes ALT pour les lettres Danoises
 |Riz|Ris|Ris|
 |Sandwich|Sandwich|Sandwiches|
 
+
 - Objets
 
 |Français|Danois|Danois Pluriel|
@@ -206,7 +217,8 @@ Codes ALT pour les lettres Danoises
 |Livre|Bog|Bøger|
 |Menu|Menu|Menuer|
 
-# Phrases
+
+# Phrases utiles
 
 |Français|Danois|
 |--|--|
