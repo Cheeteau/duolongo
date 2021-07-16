@@ -160,13 +160,22 @@ Codes ALT pour les lettres Danoises
 |Oui|Ja|
 |Non|Nej|
 |Merci|Tak|
+|Jour|Dag|
+|Peut-être|Måske|
+|Désolé|Undskyld|
+|Joyeux|Glad|
+
+- Salutations
+
+|Français|Danois|
+|--|--|
 |Bonjour|Hej|
 |Bonsoir|Godaften|
 |Bon matin|Godmorgen|
 |Bonne nuit|Godnat|
-|Joyeux|Glad|
 |Bye bye|Hej hej|
 |Au revoir|Farvel|
+|Bienvenue|Velkommen|
 
 - Personnes
 

@@ -64,7 +64,6 @@ function displayMarkdown(lang){
     const html = converter.makeHtml(markdown);
 
     langMd.innerHTML = html;
-
     langMd.querySelectorAll("*").forEach(element => {
         if (!element.id) return;
         element.addEventListener("click", () => scrollToElement(element.id));
