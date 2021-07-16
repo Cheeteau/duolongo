@@ -20,7 +20,6 @@ pre code {
     padding: 1.5pc !important;
     border-radius: 3px;
 }
-
 blockquote {
     background-color: white;
     color: black;
@@ -30,7 +29,6 @@ blockquote {
     border-radius: 3px;
     box-shadow: 0 6px 20px rgba(0,0,0,0.13);
 }
-
 p code {
     padding: 5px 10px;
     border: 1px solid #00000029;
@@ -45,7 +43,7 @@ table {
     border-collapse: collapse;
     min-width: 5vh;
 }
-
+tr { background: var(--light-grey); }
 th, td {
     padding: .5pc;
     border: 1px solid #cacaca;
