@@ -18,6 +18,7 @@ Codes ALT pour les lettres Danoises
 |Oui|Ja|
 |Non|Nej|
 
+
 |Français|Danois|
 |--|--|
 |Qui|Hvem|
@@ -25,13 +26,13 @@ Codes ALT pour les lettres Danoises
 |Quand|Hvornår|
 |Comment|Hvordan|
 
--
+
 |Français|Danois|
 |--|--|
 |Un/Une|En/Et|
 |C'est|Den/Det|
 
--
+
 |Français|Danois|
 |--|--|
 |Je|Jeg|
@@ -41,7 +42,7 @@ Codes ALT pour les lettres Danoises
 |Nous|Vi|
 |Ils|De|
 
--
+
 |Français|Danois|
 |--|--|
 |Moi|Mig|
@@ -51,7 +52,7 @@ Codes ALT pour les lettres Danoises
 |Nous|Os|
 |Leur|Dem|
 
--
+
 |Français|Danois|
 |--|--|
 |Mon|Min|
@@ -61,7 +62,7 @@ Codes ALT pour les lettres Danoises
 |Notre|Vores|
 |Leur|Deres|
 
--
+
 |Français|Danois|
 |--|--|
 |Le mien|Mine|
@@ -71,7 +72,7 @@ Codes ALT pour les lettres Danoises
 |Le notre|Vores|
 |Les leurs|Deres|
 
--
+
 |Français|Danois|
 |--|--|
 |Mais||
