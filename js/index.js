@@ -92,7 +92,21 @@ async function displayLanguages(){
     langsList.children[0].click();
 }
 
+function openAside(aside){
+    const buttons = document.querySelectorAll("button.tel");
+    buttons.forEach(btn => btn.style.display = "none");
+
+    const section = document.querySelector("section");
+    section.style.padding = "0";
+    aside.style.width = "100vw";
+}
+
 /* Main async function */
 (async () => {
     displayLanguages();
+
+    document.querySelector("#left").addEventListener("click", () => {
+        const aside = document.querySelector("aside:not(#content)");
+        openAside(aside);
+    });
 })();
