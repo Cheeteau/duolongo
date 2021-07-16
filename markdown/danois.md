@@ -164,8 +164,9 @@ Codes ALT pour les lettres Danoises
 
 |Français|Danois|
 |--|--|
-|Oui|Ja|
+|Oui|Ja/Jo|
 |Non|Nej|
+|Aussi|Også|
 |Merci|Tak|
 |Jour|Dag|
 |Peut-être|Måske|
