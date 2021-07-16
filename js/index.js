@@ -31,7 +31,9 @@ function getTwitterFlagFromEmoji(emoji){
 
 function displayMarkdown(lang){
     const markdown = markdownContents[lang];
-    const converter = new showdown.Converter();
+    const converter = new showdown.Converter({
+        tables: true
+    });
     const html = converter.makeHtml(markdown);
 
     langMd.innerHTML = html;
