@@ -25,7 +25,10 @@
     opacity: .5;
     cursor: not-allowed;
 }
-body { margin: 0; }
+body { 
+    margin: 0;
+    overflow: hidden;
+}
 html {
     scrollbar-width: .3pc;
     scrollbar-color: #fff #c5c5c5;
@@ -146,6 +149,8 @@ section {
     display: flex;
     flex-direction: column;
     width: 100vw;
+    height: 100vh;
+    overflow-x: auto;
 }
 
 
