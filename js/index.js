@@ -35,6 +35,6 @@ async function displayLanguages(){
 
 /* Main async function */
 (async () => {
-    if (markdownContents == null) saveMarkdownData() && window.location.reload();
+    if (retrieveMarkdownData() == null) saveMarkdownData() && window.location.reload();
     displayLanguages();
 })();
