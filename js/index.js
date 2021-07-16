@@ -13,11 +13,11 @@ function retrieveMarkdownData(){ return window.localStorage.getItem("markdowns")
 
 function getMarkdowns(){
     return new Promise(async (res, rej) => {
-        for (const markdown in available){
+        for (const markdown of available){
             const request = await fetch(`/markdown/${markdown}`);
             const name = markdown.split(".")[1];
     
-            if (!retrieveMarkdownData()[name]) markdownContents[name] = request;
+            if (!retrieveMarkdownData()[name] || retrieveMarkdownData() == null) markdownContents[name] = request;
         }
     
         saveMarkdownData();
