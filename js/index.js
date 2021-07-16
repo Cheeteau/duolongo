@@ -63,7 +63,7 @@ function displayMarkdown(lang){
     });
     const html = converter.makeHtml(markdown);
 
-    langMd.innerHTML = `<button class="tel" id="left"><</button><br>${html}`;
+    langMd.innerHTML = `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>${html}`;
 
     document.querySelector("#left").addEventListener("click", () => {
         const aside = document.querySelector("aside:not(#content)");
