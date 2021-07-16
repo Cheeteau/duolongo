@@ -19,7 +19,6 @@ function getMarkdowns(){
 
             markdownContents[name].data = `${request}`;
         }
-
         return res();
     });
 }
