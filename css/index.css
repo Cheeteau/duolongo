@@ -162,7 +162,7 @@ aside#content {
     border-left: 2px solid var(--main-grey);
     width: 30vw;
 }
-
+aside#content ul { width: 60%; }
 
 /* Animations */
 @keyframes fadeIn {

@@ -28,7 +28,7 @@ function scrollToElement(id){
     id.toLowerCase().replace(/[^\w\s]+/gi, '');
     const element = document.getElementById(id.replace(/ +/g, "")); //Get element by id
     const topPos = element.offsetTop;
-    document.getElementsByClassName("content")[0].scroll(0, topPos - 143);
+    document.querySelector("#_langMarkdown").scroll(0, topPos - 143);
 }
 
 function getTwitterFlagFromEmoji(emoji){
