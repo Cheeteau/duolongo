@@ -92,6 +92,16 @@ async function displayLanguages(){
     langsList.children[0].click();
 }
 
+function closeAside(aside){
+    const buttons = document.querySelectorAll("button.tel");
+    buttons.forEach(btn => btn.style.display = "block");
+
+    const section = document.querySelector("section");
+    section.style.setProperty("padding", "3vh 6vw", "important");
+    section.style.setProperty("width", "100vw", "important");
+    aside.style.setProperty("width", "0", "important");
+}
+
 function openAside(aside){
     const buttons = document.querySelectorAll("button.tel");
     buttons.forEach(btn => btn.style.display = "none");
@@ -100,6 +110,8 @@ function openAside(aside){
     section.style.setProperty("padding", "0", "important");
     section.style.setProperty("width", "0", "important");
     aside.style.setProperty("width", "100vw", "important");
+
+    aside.querySelectorAll("li").addEventListener("click", () => closeAside(aside));
 }
 
 /* Main async function */
@@ -108,6 +120,11 @@ function openAside(aside){
 
     document.querySelector("#left").addEventListener("click", () => {
         const aside = document.querySelector("aside:not(#content)");
+        openAside(aside);
+    });
+
+    document.querySelector("#right").addEventListener("click", () => {
+        const aside = document.querySelector("aside#content");
         openAside(aside);
     });
 })();

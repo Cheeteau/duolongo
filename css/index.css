@@ -217,4 +217,7 @@ button.tel:hover {background-color: var(--light-main-color);}
         padding: 3vh 6vw;
         height: 85vh !important;
     }
+    li {
+        justify-content: center;
+    }
 }
