@@ -170,9 +170,7 @@ aside#content ul { width: 100%; }
 /* Boutons portables */
 button.tel {
     display: none;
-    position: absolute;
-    width: 45px;
-    height: 45px;
+    width: 1px;
     border: none;
     color: #000000d6;
     background-color: white;
