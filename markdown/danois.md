@@ -11,7 +11,7 @@ Codes ALT pour les lettres Danoises
 |ø|ALT + 155|
 
 
-## Utile à savoir
+## A retenir
 
 |Français|Danois|
 |--|--|
@@ -84,7 +84,7 @@ Codes ALT pour les lettres Danoises
 |Car||
 
 
-## Verbes que j'ai appris
+## Verbes appris
 
 
 - Être: **Er**
@@ -143,7 +143,7 @@ Codes ALT pour les lettres Danoises
 |Ils lisent|De læser|
 
 
-## Mots que j'ai appris
+## Mots appris
 
 - Personnes
 

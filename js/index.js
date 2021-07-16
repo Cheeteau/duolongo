@@ -6,8 +6,16 @@ const contentTable = document.querySelector("#_contentTable");
 const markdownContents = {};
 const available = [
     {
+        name: "accueil",
+        emoji: "🇫🇷"
+    },
+    {
         name: "danois",
         emoji: "🇩🇰"
+    },
+    {
+        name: "russe",
+        emoji: "🇷🇺"
     }
 ];
 
