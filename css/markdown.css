@@ -61,5 +61,4 @@ p { font-size: 1.8vh; }
 /* Media */
 @media screen and (max-width: 640px){
     pre { width: 100% !important; }
-    img { width: 100% !important; }
 }
