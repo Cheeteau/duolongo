@@ -183,6 +183,7 @@ Codes ALT pour les lettres Danoises
 |Mignon|Nuttet|
 |Gentil|Venlig|
 
+
 - Salutations
 
 |Français|Danois|
