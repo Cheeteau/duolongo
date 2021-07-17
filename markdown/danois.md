@@ -73,7 +73,7 @@ Codes ALT pour les lettres Danoises
 
 |Français|Danois|
 |--|--|
-|Mais||
+|Mais|Men|
 |Ou||
 |Et|Og|
 |Donc||
