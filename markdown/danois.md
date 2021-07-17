@@ -172,7 +172,16 @@ Codes ALT pour les lettres Danoises
 |Peut-être|Måske|
 |Désolé|Undskyld|
 |Joyeux|Glad|
+|Trop|For|
 
+
+- Compliments
+
+|Français|Danois|
+|--|--|
+|Doux|Sød|
+|Mignon|Nuttet|
+|Gentil|Venlig|
 
 - Salutations
 
