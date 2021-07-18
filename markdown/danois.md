@@ -173,6 +173,7 @@ Codes ALT pour les lettres Danoises
 |Désolé|Undskyld|
 |Joyeux|Glad|
 |Trop|For|
+|Pas de problème|Så lidt|
 
 
 - Compliments
