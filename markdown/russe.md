@@ -44,7 +44,7 @@
 |Vous mangez|Вы едите|
 |Ils / Elles / Neutres|Они едят|
 
-* Boire : **пьёт**
+<!-- * Boire : **пьёт** -->
 
 ## Mots appris
 
@@ -81,7 +81,6 @@
 |Où|Где|
 |Pourquoi||
 |Excellent|Отлично|
-
 |Problème|Проблема|
 
 * Repères temporels :
