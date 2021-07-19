@@ -1,5 +1,6 @@
 # RUSSE
-Contributeur(s): Alan
+
+## Prononciation
 
 ## Pronoms personnels
 
@@ -30,9 +31,9 @@ Contributeur(s): Alan
 |Leur|||||
 |Votre|Ваш|Ваша|Ваше|Ваши|
 
-## Verbes
+## Verbes appris
 
-* Manger : **есть**
+* Manger :**есть**
 
 |Français|Russe|
 |--|--|
@@ -43,7 +44,21 @@ Contributeur(s): Alan
 |Vous mangez|Вы едите|
 |Ils / Elles / Neutres|Они едят|
 
-## Vocabulaire
+* Boire : **пьёт**
+
+## Mots appris
+
+* Salutations :
+
+|Français|Russe|
+|--|--|
+|Salut|Привет|
+|Bonjour (matin)| Доброе утро|
+|Bonjour (après midi)|Добрый день|
+|Bonsoir|Добрый вечер|
+|Bonne nuit|Спокойной ночи|
+|À plus tard|До скорого|
+|Au revoir|До свидания / Пока|
 
 * Utile :
 
@@ -53,13 +68,9 @@ Contributeur(s): Alan
 |Non|Нет|
 |S'il vous/te plaît|Пожалуйста|
 |Merci|Спасибо|
+|Je te (/vous) remercie|Благодарю (вас)|
 |Excuse(z) moi / pardon |Извини(те)|
-|Bonjour (matin)| Доброе утро|
-|Bonjour (après midi)|Добрый день|
-|Bonsoir|Добрый вечер|
-|Bonne nuit|Спокойной ночи|
-|À plus tard|До скорого|
-|Au revoir|До свидания / Пока|
+|Tous (le monde)|Все|
 |Tout|Всё|
 |Déjà|Уже|
 |Là-bas|Там|
@@ -69,64 +80,114 @@ Contributeur(s): Alan
 |Comment||
 |Où|Где|
 |Pourquoi||
+|Excellent|Отлично|
+
+|Problème|Проблема|
+
+* Repères temporels :
+
+|Français|Russe|Genre|
+|--|--|--|
+|Dernier (last/past)|Прошлая||
+|Semaine|Неделя|Féminin|
 
 * Personnes :
 
-|Français|Russe|Russe Pluriel|
-|--|--|--|
-|[Une/Des] Personne(s)|Человек||
-|Homme(s)|Мужчйна|Мужчйны|
-|Garçon(s)|Мальчик||
-|Femme(s)|Женщина|Женщины|
-|Fille(s)||Девочки|
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Personne [l'individu]|Человек|||
+|Homme|Мужчйна|Мужчйны||
+|Garçon|Мальчик|||
+|Femme|Женщина|Женщины||
+|Fille||Девочки||
+|Acteur||актёры||
+|Invité|Гость||Masculin|
 
-* Famille
+* Famille/relations :
 
-|Français|Russe|Russe Pluriel|
-|--|--|--|
-|Père|Папа||
-|Mère|Мама||
-|Frère|Брат||
-|Sœur|Сестра|Сёстры|
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Père|Папа||Masculin|
+|Mère|Мама||Féminin|
+|Frère|Брат||Masculin|
+|Sœur|Сестра|Сёстры|Féminin|
+|Enfant|ребёнок|Дети|Masculin|
+|Petit copain (bf)|Парень||Masculin|
 
-* Nouritture / Boissons :
+* Nourriture / Boissons :
 
-|Français|Russe|Russe Pluriel|
-|--|--|--|
-|Plat(s)|Тарелка|Тарелки|
-|Pomme(s)|Яблоко|Яблоки|
-|Pain|Хлеб||
-|Œuf(s)|Яйцо|Яйца|
-|Lait|Молоко||
-
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Plat(s)|Тарелка|Тарелки|Féminin|
+|Pomme(s)|Яблоко|Яблоки|Neutre|
+|Pain|Хлеб|||
+|Œuf(s)|Яйцо|Яйца|Neutre|
+|Lait|Молоко||Neutre|
+|Pizza|Пицца||Féminin|
+|Sushi|Pas de singulier|Суши||
 
 
 * Objets :
 
-|Français|Russe|Russe Pluriel|
-|--|--|--|
-|Sac(s) à dos|Рюкзак||
-|Carnet(s)|Тетрадь|Тетради|
-|Serviette(s)|Полотенце|Полотенца|
-|Bureau/Table|Стол|Столы|
-|Moteur(s)|Мотор||
-|Taxi|Такси||
-|Bagage|багаж||
-|Téléphone|Телефон||
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Sac(s) à dos|Рюкзак||Masculin|
+|Carnet(s)|Тетрадь|Тетради|Féminin|
+|Serviette(s)|Полотенце|Полотенца||
+|Bureau/Table|Стол|Столы|Masculin|
+|Moteur(s)|Мотор||Masculin|
+|Taxi|Такси||Neutre|
+|Bagage|багаж||Masculin|
+|Téléphone|Телефон||Masculin|
+|Film|Фильм||Masculin|
+|Affaire/chose||Вещи||
 
 * Lieux :
 
-|Français|Russe|Russe Pluriel|
-|--|--|--|
-|Parc(s)|Парк||
-|Lac(s)|Озеро|Озёра|
-|Bureau||Офисы|
-|Square|Площадь||
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Parc(s)|Парк||Masculin|
+|Lac(s)|Озеро|Озёра|Neutre|
+|Bureau|Офис|Офисы|Masculin|
+|Square|Площадь||Féminin|
+|Cirque|цирк||Masculin|
+|Ville|город||Masculin|
 
 * Animaux :
 
-|Français|Russe|Russe Pluriel|
-|--|--|--|
-|Chat|Кот|Коты|
-|Chatte|Кошка|Кошки|
-|Cheval|Лошадь|Лошади|
+|Français|Russe|Russe Pluriel|Genre| 
+|--|--|--|--|
+|Chat|Кот|Коты||
+|Chatte|Кошка|Кошки||
+|Cheval|Лошадь|Лошади||
+|Chien|Собака|Собаки||
+|Serpent|Змея|Змеи|Féminin|
+|Souris|Мышь|Мыши||
+|Lion|Лев|||
+|Oiseau|Птица|птицы|Féminin|
+|Canard|Утка|Утки||
+|Mouche|Муха|Мухи|Féminin|
+|Poule|Курица|||
+|Ours|Медведь|Медведи||
+|Loup|Волк|||
+
+* Vêtements :
+
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Sweat|Свитер||Masculin|
+
+* Véhicules : 
+
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Voiture|Машина|||
+
+* Autres :
+
+|Français|Russe|Russe Pluriel|Genre|
+|--|--|--|--|
+|Vie|жизнь||Féminin|
+|Problème|Проблема||Féminin|
+|Sang|Кровь||Féminin|
+|Nom|Зовут|||
