@@ -64,7 +64,7 @@ Codes ALT pour les lettres Danoises
 |Français|Danois|
 |--|--|
 |Le mien|Mine|
-|Le tiens/Le votre|Deres|
+|Le tiens/Le votre|Din|
 |Le sien|Hans|
 |La sienne|Handes|
 |Le notre|Vores|
