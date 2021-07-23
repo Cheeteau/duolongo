@@ -219,6 +219,21 @@ Codes ALT pour les lettres Danoises
 |Lait|Mælk|Mælk|
 |Riz|Ris|Ris|
 |Sandwich|Sandwich|Sandwiches|
+|Orange|Appelsin|Appelsiner|
+|Poulet|Kylling|Kyllinger|
+|Œuf|Æg|Æg|
+|Poisson|Fisk|Fiskene|
+|Café|Kaffe|Kaffe|
+|Vin|Vin|Vine|
+|Patate|Kartoffel|Kartofler|
+|Fromage|Ost|Ost|
+|Pâte|Pasta|Pasta|
+|Fruit|Frugt|Frugter|
+|Jus|Saft|Saft|
+|Sucre|Sukker|Sukker|
+|Glâce|Is|Is|
+|Déjeuner|Frokost||
+|Petit-Déjeuner|Morgenmad||
 
 
 - Objets
@@ -228,6 +243,12 @@ Codes ALT pour les lettres Danoises
 |Journal|Avis|Aviser|
 |Livre|Bog|Bøger|
 |Menu|Menu|Menuer|
+
+
+- Animaux
+
+|Français|Danois|Danois Pluriel|
+|--|--|--|
 
 
 # Phrases utiles
