@@ -174,6 +174,7 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |Joyeux|Glad|
 |Trop|For|
 |Pas de problème|Så lidt|
+|**Cringe**|Kre|
 
 
 - Compliments | *Kompliment*
