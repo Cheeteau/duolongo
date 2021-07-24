@@ -13,7 +13,8 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |ø|ALT + 155|
 
 
-## A retenir *(Husk lige på)*
+## A retenir
+*(Husk lige på)*
 
 
 |French|Danish|
@@ -82,7 +83,8 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |Car||
 
 
-## Verbes *(Udsagnsord)*
+## Verbes
+*(Udsagnsord)*
 
 
 - Être = **Er**
@@ -157,7 +159,8 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |Ils disent|De siger|
 
 
-## Vocabulaire *(Ordforråd)*
+## Vocabulaire
+*(Ordforråd)*
 
 
 - Utile | *Brugbar*
@@ -268,7 +271,9 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |--|--|--|
 
 
-# Phrases utiles *(Brugbare sætninger)*
+# Phrases utiles
+*(Brugbare sætninger)*
+
 
 |French|Danish|
 |--|--|
