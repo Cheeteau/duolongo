@@ -1,8 +1,8 @@
-# DANOIS
+# Danish
 Contributeur(s): Martin
 
 
-Codes ALT pour les lettres Danoises
+Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |Lettres|Codes ALT|
 |--|--|
 |Å|ALT + 143|
@@ -13,10 +13,10 @@ Codes ALT pour les lettres Danoises
 |ø|ALT + 155|
 
 
-## A retenir
+## A retenir *(Husk lige på)*
 
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Qui|Hvem|
 |Quoi|Hvad|
@@ -24,14 +24,14 @@ Codes ALT pour les lettres Danoises
 |Comment|Hvordan|
 
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Un/Une|En/Et|
 |C'est|Den/Det|
 |Pas (Je ne suis pas)|Ikke (Jeg er ikke)|
 
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Je|Jeg|
 |Tu/Vous|Du/I|
@@ -41,7 +41,7 @@ Codes ALT pour les lettres Danoises
 |Ils/Elles|De|
 
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Moi|Mig|
 |Toi|Dig|
@@ -51,7 +51,7 @@ Codes ALT pour les lettres Danoises
 |Leur|Dem|
 
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Mon|Min|
 |Ton/Votre|Deres|
@@ -61,7 +61,7 @@ Codes ALT pour les lettres Danoises
 |Leur|Deres|
 
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Le mien|Mine|
 |Le tiens/Le votre|Din|
@@ -71,7 +71,7 @@ Codes ALT pour les lettres Danoises
 |Les leurs|Deres|
 
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Mais|Men|
 |Ou||
@@ -82,12 +82,12 @@ Codes ALT pour les lettres Danoises
 |Car||
 
 
-## Verbes
+## Verbes *(Udsagnsord)*
 
 
-- Être: **Er**
+- Être = **Er**
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Je suis|Jeg er|
 |Tu es|Du er|
@@ -97,9 +97,9 @@ Codes ALT pour les lettres Danoises
 |Ils sont|De er|
 
 
-- Avoir: **Har**
+- Avoir = **Har**
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |J'ai|Jeg har|
 |Tu as|Du har|
@@ -109,9 +109,9 @@ Codes ALT pour les lettres Danoises
 |Ils ont|De har|
 
 
-- Manger: **Spise**
+- Manger = **Spise**
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Je mange|Jeg spiser|
 |Tu mange|Du spiser|
@@ -121,9 +121,9 @@ Codes ALT pour les lettres Danoises
 |Ils mangent|De spiser|
 
 
-- Boire: **Drikke**
+- Boire = **Drikke**
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Je bois|Jeg drikker|
 |Tu bois|Du drikker|
@@ -133,9 +133,9 @@ Codes ALT pour les lettres Danoises
 |Ils boivent|De drikker|
 
 
-- Lire: **Læs**
+- Lire = **Læs**
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Je lis|Jeg læser|
 |Tu lis|Du læser|
@@ -145,9 +145,9 @@ Codes ALT pour les lettres Danoises
 |Ils lisent|De læser|
 
 
-- Dire: **Sig**
+- Dire = **Sig**
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Je dis|Jeg siger|
 |Tu dis|Du siger|
@@ -157,12 +157,12 @@ Codes ALT pour les lettres Danoises
 |Ils disent|De siger|
 
 
-## Vocabulaire
+## Vocabulaire *(Ordforråd)*
 
 
-- Utile
+- Utile | *Brugbar*
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Oui|Ja/Jo|
 |Non|Nej|
@@ -176,18 +176,18 @@ Codes ALT pour les lettres Danoises
 |Pas de problème|Så lidt|
 
 
-- Compliments
+- Compliments | *Kompliment*
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Doux|Sød|
 |Mignon|Nuttet|
 |Gentil|Venlig|
 
 
-- Salutations
+- Salutations | *Hilsner*
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Bonjour|Hej|
 |Bonsoir|Godaften|
@@ -198,9 +198,9 @@ Codes ALT pour les lettres Danoises
 |Bienvenue|Velkommen|
 
 
-- Personnes
+- Personnes | *Folk*
 
-|Français|Danois|Danois Pluriel|
+|French|Danish|Danish (Plural)|
 |--|--|--|
 |Femme(s)|Kvinde|Kvinder|
 |Homme(s)|Mand|Mænd|
@@ -209,50 +209,66 @@ Codes ALT pour les lettres Danoises
 |Enfant(s)|Barn|Børn|
 
 
-- Nourriture / Boissons
+- Nourriture | *Mad*
 
-|Français|Danois|Danois Pluriel|
+|French|Danish|Danish (Plural)|
 |--|--|--|
+|Déjeuner|Frokost|Frokost|
+|Petit-Déjeuner|Morgenmad|Morgenmad|
+|Dîner|Aftensmad|Aftensmad|
 |Pomme(s)|Æble|Æbler|
 |Pain|Brød|Brød|
-|Eau|Vand|Vand|
-|Lait|Mælk|Mælk|
 |Riz|Ris|Ris|
 |Sandwich|Sandwich|Sandwiches|
 |Orange|Appelsin|Appelsiner|
 |Poulet|Kylling|Kyllinger|
 |Œuf|Æg|Æg|
 |Poisson|Fisk|Fiskene|
-|Café|Kaffe|Kaffe|
-|Vin|Vin|Vine|
 |Patate|Kartoffel|Kartofler|
 |Fromage|Ost|Ost|
 |Pâte|Pasta|Pasta|
 |Fruit|Frugt|Frugter|
-|Jus|Saft|Saft|
 |Sucre|Sukker|Sukker|
 |Glâce|Is|Is|
-|Déjeuner|Frokost||
-|Petit-Déjeuner|Morgenmad||
+|Gateau|Kage|Kager|
+|Nourriture|Mad|Mad|
+|Steak|Bøf|Bøffer|
+|Fraise|Jordbær|Jordbære|
+|Citron|Citron|Citroner|
+|Soupe|Suppe|Supper|
+|Tomate|Tomat|Tomater|
 
 
-- Objets
+- Boissons | *Drik*
 
-|Français|Danois|Danois Pluriel|
+|French|Danish|Danish (Plural)|
+|--|--|--|
+|Eau|Vand|Vand|
+|Lait|Mælk|Mælk|
+|Café|Kaffe|Kaffe|
+|Vin|Vin|Vine|
+|Jus|Saft|Saft|
+|Bière|Øl|Øler|
+|Thé|
+
+
+- Objets | *Genstande*
+
+|French|Danish|Danish (Plural)|
 |--|--|--|
 |Journal|Avis|Aviser|
 |Livre|Bog|Bøger|
 |Menu|Menu|Menuer|
 
 
-- Animaux
+- Animaux | *Dyr*
 
-|Français|Danois|Danois Pluriel|
+|French|Danish|Danish (Plural)|
 |--|--|--|
 
 
-# Phrases utiles
+# Phrases utiles *(Brugbare sætninger)*
 
-|Français|Danois|
+|French|Danish|
 |--|--|
 |Je vais bien|Jeg har det godt/fint|
