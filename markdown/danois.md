@@ -215,11 +215,18 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 
 - Nourriture | *Mad*
 
+Important words
 |French|Danish|Danish (Plural)|
 |--|--|--|
+|Végétarien|Vegetar|Vegetarer|
+|Repas|Måltid|Måltider|
 |Déjeuner|Frokost|Frokost|
 |Petit-Déjeuner|Morgenmad|Morgenmad|
 |Dîner|Aftensmad|Aftensmad|
+
+
+|French|Danish|Danish (Plural)|
+|--|--|--|
 |Pomme(s)|Æble|Æbler|
 |Pain|Brød|Brød|
 |Riz|Ris|Ris|
@@ -241,6 +248,11 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |Citron|Citron|Citroner|
 |Soupe|Suppe|Supper|
 |Tomate|Tomat|Tomater|
+|Huile|Olie|Olier|
+|Viande|Kød|Kød|
+|Porc|Svinekød|Svinekød|
+|Sel|Salt|Salt|
+
 
 
 - Boissons | *Drik*
