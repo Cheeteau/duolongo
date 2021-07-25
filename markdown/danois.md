@@ -227,32 +227,31 @@ Important words
 
 |French|Danish|Danish (Plural)|
 |--|--|--|
-|Pomme(s)|Æble|Æbler|
-|Pain|Brød|Brød|
-|Riz|Ris|Ris|
-|Sandwich|Sandwich|Sandwiches|
-|Orange|Appelsin|Appelsiner|
-|Poulet|Kylling|Kyllinger|
-|Œuf|Æg|Æg|
-|Poisson|Fisk|Fiskene|
-|Patate|Kartoffel|Kartofler|
-|Fromage|Ost|Ost|
-|Pâte|Pasta|Pasta|
+|🍎 Pomme(s)|Æble|Æbler|
+|🍞 Pain|Brød|Brød|
+|🍚 Riz|Ris|Ris|
+|🥪 Sandwich|Sandwich|Sandwiches|
+|🍊 Orange|Appelsin|Appelsiner|
+|🍗 Poulet|Kylling|Kyllinger|
+|🥚 Œuf|Æg|Æg|
+|🐟 Poisson|Fisk|Fiskene|
+|🥔 Patate|Kartoffel|Kartofler|
+|🧀 Fromage|Ost|Ost|
+|🍝 Pâte|Pasta|Pasta|
 |Fruit|Frugt|Frugter|
 |Sucre|Sukker|Sukker|
-|Glâce|Is|Is|
-|Gateau|Kage|Kager|
+|🍦 Glâce|Is|Is|
+|🍰 Gateau|Kage|Kager|
 |Nourriture|Mad|Mad|
-|Steak|Bøf|Bøffer|
-|Fraise|Jordbær|Jordbære|
-|Citron|Citron|Citroner|
-|Soupe|Suppe|Supper|
-|Tomate|Tomat|Tomater|
-|Huile|Olie|Olier|
-|Viande|Kød|Kød|
-|Porc|Svinekød|Svinekød|
-|Sel|Salt|Salt|
-
+|🥩 Steak|Bøf|Bøffer|
+|🍓 Fraise|Jordbær|Jordbære|
+|🍋 Citron|Citron|Citroner|
+|🥣 Soupe|Suppe|Supper|
+|🍅 Tomate|Tomat|Tomater|
+|🛢️ Huile|Olie|Olier|
+|🍖 Viande|Kød|Kød|
+|🐷 Porc|Svinekød|Svinekød|
+|🧂 Sel|Salt|Salt|
 
 
 - Boissons | *Drik*
@@ -265,7 +264,7 @@ Important words
 |Vin|Vin|Vine|
 |Jus|Saft|Saft|
 |Bière|Øl|Øler|
-|Thé|
+|Thé|Te|Te|
 
 
 - Objets | *Genstande*
