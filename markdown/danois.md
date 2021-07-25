@@ -227,31 +227,31 @@ Important words
 
 |French|Danish|Danish (Plural)|
 |--|--|--|
-|🍎 Pomme(s)|Æble|Æbler|
-|🍞 Pain|Brød|Brød|
-|🍚 Riz|Ris|Ris|
-|🥪 Sandwich|Sandwich|Sandwiches|
-|🍊 Orange|Appelsin|Appelsiner|
-|🍗 Poulet|Kylling|Kyllinger|
-|🥚 Œuf|Æg|Æg|
-|🐟 Poisson|Fisk|Fiskene|
-|🥔 Patate|Kartoffel|Kartofler|
-|🧀 Fromage|Ost|Ost|
-|🍝 Pâte|Pasta|Pasta|
-|Fruit|Frugt|Frugter|
+|**Fruit**|**Frugt**|**Frugter**|
+|Pomme(s)|Æble|Æbler|
+|Orange|Appelsin|Appelsiner|
+|Fraise|Jordbær|Jordbære|
+|Citron|Citron|Citroner|
+|Tomate|Tomat|Tomater|
+|Patate|Kartoffel|Kartofler|
+|**Viande**|**Kød**|**Kød**|
+|Poulet|Kylling|Kyllinger|
+|Steak|Bøf|Bøffer|
+|Porc|Svinekød|Svinekød|
+|Poisson|Fisk|Fiskene|
+|**Nourriture**|**Mad**|**Mad**|
+|Sandwich|Sandwich|Sandwiches|
+|Pain|Brød|Brød|
+|Riz|Ris|Ris|
+|Œuf|Æg|Æg|
+|Fromage|Ost|Ost|
+|Pâte|Pasta|Pasta|
+|Glâce|Is|Is|
+|Gateau|Kage|Kager|
+|Soupe|Suppe|Supper|
+|Huile|Olie|Olier|
 |Sucre|Sukker|Sukker|
-|🍦 Glâce|Is|Is|
-|🍰 Gateau|Kage|Kager|
-|Nourriture|Mad|Mad|
-|🥩 Steak|Bøf|Bøffer|
-|🍓 Fraise|Jordbær|Jordbære|
-|🍋 Citron|Citron|Citroner|
-|🥣 Soupe|Suppe|Supper|
-|🍅 Tomate|Tomat|Tomater|
-|🛢️ Huile|Olie|Olier|
-|🍖 Viande|Kød|Kød|
-|🐷 Porc|Svinekød|Svinekød|
-|🧂 Sel|Salt|Salt|
+|Sel|Salt|Salt|
 
 
 - Boissons | *Drik*
