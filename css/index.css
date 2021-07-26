@@ -86,7 +86,7 @@ input[type="text"] {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: var(--light-grey);
+    background: #f0f0f0;
     transition: transform 2s ease;
 }
 #_loadingScreen.loaded {transform: translateY(-150vh);}
