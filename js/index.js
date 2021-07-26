@@ -106,6 +106,23 @@ function displayMarkdown(lang){
     inputSearch.type = "text";
     inputSearch.placeholder = "Rechercher un mot";
 
+    // Quand l'utilisateur tappe un mot
+    inputSearch.addEventListener("keyup", () => {
+        const value = inputSearch.value.replace(" ", "");
+        if(value.length == 0) return landMd.scroll(0, 0);
+
+        // Récupère un élément avec ce mot
+        const elements = [...document.querySelectorAll("*")].filter(e => e.innerHTML.includes(value));
+        const element = elements[elements.length - 1];
+
+        if (element != undefined){
+            element.scrollIntoView();
+            return element.classList.add("selected");
+        }else{
+            return landMd.scroll(0, 0);
+        }
+    });
+
     contentTable.append(inputSearch);
 
     // Va ajouter tous les headers à la table de contenu afin de permettre à l'utilisateur d'y accéder plus rapidement
