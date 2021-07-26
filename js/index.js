@@ -115,13 +115,13 @@ function displayMarkdown(lang){
         }
 
         // Récupère un élément avec ce mot
-        const elements = [...document.querySelectorAll("*")].filter(e => e.innerHTML.includes(value));
+        const elements = [...document.querySelectorAll("td")].filter(e => e.innerHTML.includes(value));
         const element = elements[elements.length - 1];
 
         // Si l'élément existe
         if (element != undefined){
             element.scrollIntoView();
-            element.classList.add("selected");
+            console.log(element.parentNode.childNodes);
         }else{
             document.querySelectorAll(".selected").forEach(e => e.classList.remove("selected"));
             return langMd.scroll(0, 0);
