@@ -8,7 +8,7 @@
 
     --main-grey: #e5e5e5;
     --light-grey: #eeeeee;
-    --dark-grey: #1f1f1f;
+    --dark-grey: #272727;
 
     --main-red: #ff4444;
 }
@@ -87,11 +87,11 @@ input[type="text"] {
     width: 100vw;
     height: 100vh;
     background: var(--light-grey);
-    box-shadow: 0px 4px 23px 5px rgba(0,0,0,0.25);
     transition: transform 2s ease;
 }
 #_loadingScreen.loaded {transform: translateY(-150vh);}
 #_loadingScreen h3 {
+    font-size: 5vw;
     font-family: Poppins;
     color: var(--dark-grey);
     animation: floating 2.5s ease infinite;
