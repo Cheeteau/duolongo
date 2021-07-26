@@ -91,7 +91,7 @@ input[type="text"] {
 }
 #_loadingScreen.loaded {transform: translateY(-150vh);}
 #_loadingScreen h3 {
-    font-size: 5vw;
+    font-size: 3vw;
     font-family: Poppins;
     color: var(--dark-grey);
     animation: floating 2.5s ease infinite;
