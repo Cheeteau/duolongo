@@ -121,9 +121,7 @@ function displayMarkdown(lang){
         // Si l'élément existe
         if (element != undefined){
             element.scrollIntoView();
-            element.parentNode.childNodes.forEach(e => {
-                e.classList.add("selected"); // Met la table en jaune pour mieux le voir
-            })
+            element.classList.add("selected");
         }else{
             document.querySelectorAll(".selected").forEach(e => e.classList.remove("selected"));
             return langMd.scroll(0, 0);
