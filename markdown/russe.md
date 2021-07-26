@@ -1,6 +1,44 @@
 # RUSSE
 
-## Prononciation
+## Alphabet
+
+![](https://i.pinimg.com/originals/e7/4d/1b/e74d1bef5d0cfb46c9ca97655c8f1b50.jpg)
+
+|Lettre info maj|Lettre info min|Prononciation|
+|--|--|--|
+|А|а|a|
+|Б|б|b|
+|В|в|v|
+|Г|г|g|
+|Д|д|d|
+|Е|е|ye|
+|Ё|ё|you|
+|Ж|ж|j|
+|З|з|z|
+|И|и|i|
+|Й|й|y|
+|К|к|k|
+|Л|л|l|
+|М|м|m|
+|Н|н|n|
+|О|о|o|
+|П|п|p|
+|Р|р|r rouler|
+|С|с|ss|
+|Т|т|t|
+|У|у|ou|
+|Ф|ф|f|
+|Х|х|hh|
+|Ц|ц|ts|
+|Ч|ч|tch / ch|
+|Ш|ш|sh|
+|Щ|щ|tch / ch|
+|Ъ|ъ|séparateur non prononcé|
+|Ы|ы|e/i|
+|Ь|ь|séparateur non prononcé|
+|Э|э|è|
+|Ю|ю|you|
+|Я|я|ya|
 
 ## Pronoms personnels
 
@@ -44,7 +82,7 @@
 |Vous mangez|Вы едите|
 |Ils / Elles / Neutres|Они едят|
 
-<!-- * Boire : **пьёт** -->
+* Boire : **пьёт**
 
 ## Mots appris
 
@@ -81,6 +119,10 @@
 |Où|Где|
 |Pourquoi||
 |Excellent|Отлично|
+|Encore|Ещё раз|
+|Dis-moi/Dites-moi|Скажи/Скажите|
+|Peux-tu/Pouvez-vous|Можете|
+
 |Problème|Проблема|
 
 * Repères temporels :
@@ -92,101 +134,125 @@
 
 * Personnes :
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Personne [l'individu]|Человек|||
-|Homme|Мужчйна|Мужчйны||
-|Garçon|Мальчик|||
-|Femme|Женщина|Женщины||
-|Fille||Девочки||
-|Acteur||актёры||
-|Invité|Гость||Masculin|
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Personne [l'individu]|Человек||||
+|Homme|Мужчйна|Мужчйны|Мужчйны||
+|Garçon|Мальчик||||
+|Femme|Женщина|Женщины|Женщины||
+|Fille|Девочки|Девочки|Девочки||
+|Acteur||Актёры|||
+|Invité|Гость|||Masculin|
 
 * Famille/relations :
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Père|Папа||Masculin|
-|Mère|Мама||Féminin|
-|Frère|Брат||Masculin|
-|Sœur|Сестра|Сёстры|Féminin|
-|Enfant|ребёнок|Дети|Masculin|
-|Petit copain (bf)|Парень||Masculin|
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Père|Папа||Папы|Masculin|
+|Mère|Мама||Мамы|Féminin|
+|Frère|Брат||Брата|Masculin|
+|Sœur|Сестра|Сёстры|Сестры|Féminin|
+|Enfant|ребёнок|Дети||Masculin|
+|Petit copain (bf)|Парень|||Masculin|
 
 * Nourriture / Boissons :
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Plat(s)|Тарелка|Тарелки|Féminin|
-|Pomme(s)|Яблоко|Яблоки|Neutre|
-|Pain|Хлеб|||
-|Œuf(s)|Яйцо|Яйца|Neutre|
-|Lait|Молоко||Neutre|
-|Pizza|Пицца||Féminin|
-|Sushi|Pas de singulier|Суши||
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Plat(s)|Тарелка|Тарелки|Тарелкы|Féminin|
+|Pomme(s)|Яблоко|Яблоки|Яблока|Neutre|
+|Pain|Хлеб||Хлеба||
+|Œuf(s)|Яйцо|Яйца|Яйца|Neutre|
+|Lait|Молоко||Молока|Neutre|
+|Pizza|Пицца|||Féminin|
+|Sushi|Pas de singulier|Суши|||
+|Jus|Сок||Сока|Masculin|
+|Ris|Рис||Риса|Masculin|
+|Cacao|Какао|||Neutre|
+|Beurre|Масло||Масла||
+|Thé|Чай||Чая||
 
 
 * Objets :
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Sac(s) à dos|Рюкзак||Masculin|
-|Carnet(s)|Тетрадь|Тетради|Féminin|
-|Serviette(s)|Полотенце|Полотенца||
-|Bureau/Table|Стол|Столы|Masculin|
-|Moteur(s)|Мотор||Masculin|
-|Taxi|Такси||Neutre|
-|Bagage|багаж||Masculin|
-|Téléphone|Телефон||Masculin|
-|Film|Фильм||Masculin|
-|Affaire/chose||Вещи||
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Sac(s) à dos|Рюкзак|||Masculin|
+|Carnet(s)|Тетрадь|Тетради|Тетради|Féminin|
+|Serviette(s)|Полотенце|Полотенца|Полотенца|Neutre|
+|Bureau/Table|Стол|Столы||Masculin|
+|Moteur(s)|Мотор|||Masculin|
+|Taxi|Такси|||Neutre|
+|Bagage|багаж|||Masculin|
+|Téléphone|Телефон|||Masculin|
+|Film|Фильм|||Masculin|
+|Affaire/chose||Вещи|||
+|Porte|Дверь|Двери|Двери||
+|Livre|Книга||||
+|Radio|Радио||Pas de génitif|Neutre|
+|Crayon|Карандаш||Карандаша|Карандаш|
+
+
+** Repères dans l'espace :
+|Français|Russe|Genre|
+|--|--|--|
+|Proche (de) / A côté|Возле||
 
 * Lieux :
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Parc(s)|Парк||Masculin|
-|Lac(s)|Озеро|Озёра|Neutre|
-|Bureau|Офис|Офисы|Masculin|
-|Square|Площадь||Féminin|
-|Cirque|цирк||Masculin|
-|Ville|город||Masculin|
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Parc(s)|Парк|||Masculin|
+|Lac(s)|Озеро|Озёра|Озера|Neutre|
+|Bureau|Офис|Офисы||Masculin|
+|Square|Площадь||Площади|Féminin|
+|Cirque|Цирк|||Masculin|
+|Ville|город|||Masculin|
+|Métro|Метро||Pas de génitif|Masculin|
 
 * Animaux :
 
-|Français|Russe|Russe Pluriel|Genre| 
-|--|--|--|--|
-|Chat|Кот|Коты||
-|Chatte|Кошка|Кошки||
-|Cheval|Лошадь|Лошади||
-|Chien|Собака|Собаки||
-|Serpent|Змея|Змеи|Féminin|
-|Souris|Мышь|Мыши||
-|Lion|Лев|||
-|Oiseau|Птица|птицы|Féminin|
-|Canard|Утка|Утки||
-|Mouche|Муха|Мухи|Féminin|
-|Poule|Курица|||
-|Ours|Медведь|Медведи||
-|Loup|Волк|||
+|Français|Russe|Russe Pluriel|Génitif|Genre| 
+|--|--|--|--|--|
+|Chat|Кот|Коты|Кота||
+|Chatte|Кошка|Кошки|||
+|Cheval|Лошадь|Лошади|||
+|Chien|Собака|Собаки|Собаки||
+|Serpent|Змея|Змеи|Змеы|Féminin|
+|Souris|Мышь|Мыши|Мыши||
+|Lion|Лев||Лева||
+|Oiseau|Птица|птицы||Féminin|
+|Canard|Утка|Утки|||
+|Mouche|Муха|Мухи||Féminin|
+|Poule|Курица||||
+|Ours|Медведь|Медведи|Медведи||
+|Loup|Волк||Волка||
 
 * Vêtements :
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Sweat|Свитер||Masculin|
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Sweat|Свитер||Свитера|Masculin|
 
 * Véhicules : 
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Voiture|Машина|||
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Voiture|Машина||||
+
+** Nature :
+
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Arbre|Дерева||||
+|Roche|Камень||Камени||
 
 * Autres :
 
-|Français|Russe|Russe Pluriel|Genre|
-|--|--|--|--|
-|Vie|жизнь||Féminin|
-|Problème|Проблема||Féminin|
-|Sang|Кровь||Féminin|
-|Nom|Зовут|||
+|Français|Russe|Russe Pluriel|Génitif|Genre|
+|--|--|--|--|--|
+|Vie|Жизнь||Жизни|Féminin|
+|Problème|Проблема|||Féminin|
+|Sang|Кровь||Крови|Féminin|
+|Nom|Зовут||Зовута||
+|Mot|Слово||Слова|Neutre|
