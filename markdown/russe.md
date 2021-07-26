@@ -1,4 +1,6 @@
 # RUSSE
+Contributeur(s): Alan
+
 
 ## Alphabet
 
@@ -40,6 +42,7 @@
 |Ю|ю|you|
 |Я|я|ya|
 
+
 ## Pronoms personnels
 
 |Français|Russe|
@@ -69,9 +72,10 @@
 |Leur|||||
 |Votre|Ваш|Ваша|Ваше|Ваши|
 
-## Verbes appris
 
-* Manger :**есть**
+## Verbes
+
+- Manger :**есть**
 
 |Français|Russe|
 |--|--|
@@ -82,11 +86,16 @@
 |Vous mangez|Вы едите|
 |Ils / Elles / Neutres|Они едят|
 
-* Boire : **пьёт**
+- Boire : **пьёт**
+|Français|Russe|
+|--|--|
+|||
 
-## Mots appris
 
-* Salutations :
+## Vocabulaire
+
+
+- Salutations :
 
 |Français|Russe|
 |--|--|
@@ -98,7 +107,8 @@
 |À plus tard|До скорого|
 |Au revoir|До свидания / Пока|
 
-* Utile :
+
+- Utile :
 
 |Français|Russe|
 |--|--|
@@ -122,17 +132,18 @@
 |Encore|Ещё раз|
 |Dis-moi/Dites-moi|Скажи/Скажите|
 |Peux-tu/Pouvez-vous|Можете|
-
 |Problème|Проблема|
 
-* Repères temporels :
+
+- Repères temporels :
 
 |Français|Russe|Genre|
 |--|--|--|
 |Dernier (last/past)|Прошлая||
 |Semaine|Неделя|Féminin|
 
-* Personnes :
+
+- Personnes :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
@@ -144,7 +155,8 @@
 |Acteur||Актёры|||
 |Invité|Гость|||Masculin|
 
-* Famille/relations :
+
+- Famille/relations :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
@@ -155,7 +167,8 @@
 |Enfant|ребёнок|Дети||Masculin|
 |Petit copain (bf)|Парень|||Masculin|
 
-* Nourriture / Boissons :
+
+- Nourriture / Boissons :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
@@ -173,7 +186,7 @@
 |Thé|Чай||Чая||
 
 
-* Objets :
+- Objets :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
@@ -193,12 +206,14 @@
 |Crayon|Карандаш||Карандаша|Карандаш|
 
 
-** Repères dans l'espace :
+- Repères dans l'espace :
+
 |Français|Russe|Genre|
 |--|--|--|
 |Proche (de) / A côté|Возле||
 
-* Lieux :
+
+- Lieux :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
@@ -210,7 +225,8 @@
 |Ville|город|||Masculin|
 |Métro|Метро||Pas de génitif|Masculin|
 
-* Animaux :
+
+- Animaux :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre| 
 |--|--|--|--|--|
@@ -228,26 +244,30 @@
 |Ours|Медведь|Медведи|Медведи||
 |Loup|Волк||Волка||
 
-* Vêtements :
+
+- Vêtements :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
 |Sweat|Свитер||Свитера|Masculin|
 
-* Véhicules : 
+
+- Véhicules : 
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
 |Voiture|Машина||||
 
-** Nature :
+
+- Nature :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
 |Arbre|Дерева||||
 |Roche|Камень||Камени||
 
-* Autres :
+
+- Autres :
 
 |Français|Russe|Russe Pluriel|Génitif|Genre|
 |--|--|--|--|--|
