@@ -8,6 +8,7 @@
 
     --main-grey: #e5e5e5;
     --light-grey: #eeeeee;
+    --dark-grey: #1f1f1f;
 
     --main-red: #ff4444;
 }
@@ -73,45 +74,27 @@ input[type="text"] {
     box-shadow: 0px 0px 0px 0px var(--light-main-color);
 }
 
-/* Modal */
-#langModal {display: none;}
-.modal {
-    justify-content: center;
-    align-items: center;
 
-    width: 100vw;
-    height: 100vh;
+/* Loading screen */
+#_loadingScreen {
     position: fixed;
-    z-index: 1;
-    background: rgba(0, 0, 0, 0.8);
-    animation: fadeIn .8s ease;
-}
-.modal article {
     display: flex;
     align-items: center;
-    flex-direction: column;
+    justify-content: center;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    transition: transform .8s ease;
+}
+#_loadingScreen.loaded {transform: translateY(-150vh);}
+#_loadingScreen h3 {
+    font-family: Poppins;
+    color: var(--dark-grey);
+    animation: floating 1s ease infinite;
+}
 
-    min-height: 20vh;
-    min-width: 50vh;
-    padding: 2vh;
-    background-color: white;
-    border-radius: 8px;
-    animation: sizeIn .8s ease;
-}
-.modal article .error {
-    color: var(--main-red);
-    margin-bottom: 2vh;
-}
-.modal article h1 { font-size: 1.5vw; }
-.modal article input {
-    margin-bottom: 2vh;
-    font-size: .9vw;
-    width: 90%;
-}
-.modal article button { 
-    margin-bottom: 1.5vh; 
-    font-size: 1vw; 
-}
 
 /* Aside */
 aside {
@@ -200,6 +183,12 @@ button.tel:hover {opacity: .5;}
 @keyframes sizeIn {
     from {transform: scale(0);}
     to {transform: scale(1);}
+}
+
+@keyframes floating {
+    0% {transform: translateY(0);}
+    50% {transform: translateY(-.5pc);}
+    100% {transform: translateY(0);}
 }
 
 /* Responsive */
