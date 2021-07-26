@@ -4,6 +4,7 @@ Contributeur(s): Alan
 
 ## Alphabet
 
+
 ![](https://i.pinimg.com/originals/e7/4d/1b/e74d1bef5d0cfb46c9ca97655c8f1b50.jpg)
 
 |Lettre info majuscule|Lettre info minuscule|Prononciation|
@@ -45,6 +46,7 @@ Contributeur(s): Alan
 
 ## Pronoms personnels
 
+
 |Français|Russe|
 |--|--|
 |Je|Я|
@@ -75,6 +77,7 @@ Contributeur(s): Alan
 
 ## Verbes
 
+
 - Manger = **есть**
 
 |Français|Russe|
@@ -87,9 +90,6 @@ Contributeur(s): Alan
 |Ils / Elles / Neutres|Они едят|
 
 - Boire = **пьёт**
-|Français|Russe|
-|--|--|
-|||
 
 
 ## Vocabulaire
