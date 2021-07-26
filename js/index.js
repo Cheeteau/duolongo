@@ -116,7 +116,7 @@ function displayMarkdown(lang){
 
         // Récupère un élément avec ce mot
         const elements = [...document.querySelectorAll("td")].filter(e => e.innerHTML.includes(value));
-        const element = elements[elements.length - 1];
+        const element = elements[0];
 
         // Si l'élément existe
         if (element != undefined){
