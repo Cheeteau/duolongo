@@ -2,7 +2,7 @@
 const langsList = document.querySelector("#_langsList");
 const langMd = document.querySelector("#_langMarkdown");
 const contentTable = document.querySelector("#_contentTable");
-const loadingScreen = document.querySelector("_loadingScreen");
+const loadingScreen = document.querySelector("#_loadingScreen");
 const buttons = document.querySelectorAll("button.tel");
 
 const markdownContents = {};

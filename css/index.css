@@ -86,13 +86,14 @@ input[type="text"] {
     left: 0;
     width: 100vw;
     height: 100vh;
-    transition: transform .8s ease;
+    background: var(--main-grey);
+    transition: transform 1s ease;
 }
 #_loadingScreen.loaded {transform: translateY(-150vh);}
 #_loadingScreen h3 {
     font-family: Poppins;
     color: var(--dark-grey);
-    animation: floating 1s ease infinite;
+    animation: floating 2.5s ease infinite;
 }
 
 
