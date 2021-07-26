@@ -2,7 +2,7 @@
 Contributeur(s): Martin
 
 
-Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
+Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Lettres|Codes ALT|
 |--|--|
 |Å|ALT + 143|
@@ -22,6 +22,7 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |Qui|Hvem|
 |Quoi|Hvad|
 |Quand|Hvornår|
+|Où|Hvor|
 |Comment|Hvordan|
 
 
@@ -75,7 +76,7 @@ Codes ALT pour les lettres Danishes *(ALT-koder for danske bogstaver)*
 |French|Danish|
 |--|--|
 |Mais|Men|
-|Ou||
+|Ou|Eller|
 |Et|Og|
 |Donc||
 |Or||
@@ -274,6 +275,7 @@ Important words
 |Journal|Avis|Aviser|
 |Livre|Bog|Bøger|
 |Menu|Menu|Menuer|
+|Plat|Tallerken||
 
 
 - Animaux | *Dyr*
