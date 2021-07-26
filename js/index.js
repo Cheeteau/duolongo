@@ -101,10 +101,18 @@ function displayMarkdown(lang){
         openAside(aside);
     });
 
+    // Créer un input type search pour rechercher un mot en particulier
+    const inputSearch = document.createElement("input");
+    inputSearch.type = "text";
+    inputSearch.placeholder = "Rechercher un mot";
+
+    contentTable.append(inputSearch);
+
     // Va ajouter tous les headers à la table de contenu afin de permettre à l'utilisateur d'y accéder plus rapidement
     langMd.querySelectorAll("h1, h2, h3, h4, h5").forEach(element => {
         if (!element.id) return; // Si l'élément n'a pas d'id, on ignore
 
+        // Créer un li pour chaque header
         const li = document.createElement("li");
         li.textContent = element.innerHTML.toUpperCase().replace(/[^\w\s]/gi, "");
         li.addEventListener("click", () => scrollToElement(li.textContent.toLowerCase())); // Scroll vers le header lors d'un clic sur le li lui correspondant
