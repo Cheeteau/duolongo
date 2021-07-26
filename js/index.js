@@ -138,7 +138,7 @@ async function displayLanguages(){
 
 
 /**
- * [MOBILE] Permet d'ouvrir le aside contenant la liste des langages
+ * [MOBILE] Permet d'ouvrir le aside contenant la liste des langages sur téléphone
  * @param {HTMLElement} aside Élement html du aside
  */
 function openAside(aside){
@@ -153,7 +153,7 @@ function openAside(aside){
 
 
 /**
- * [MOBILE] Permet de fermer le aside contenant la liste des langages
+ * [MOBILE] Permet de fermer le aside contenant la liste des langages sur téléphone
  * @param {HTMLElement} aside Élement html du aside
  */
 function closeAside(aside){

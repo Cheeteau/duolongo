@@ -187,7 +187,7 @@ button.tel:hover {opacity: .5;}
 
 @keyframes floating {
     0% {transform: translateY(0);}
-    50% {transform: translateY(-.5pc);}
+    50% {transform: translateY(-.7pc);}
     100% {transform: translateY(0);}
 }
 
