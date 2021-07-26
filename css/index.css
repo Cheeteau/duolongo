@@ -81,6 +81,7 @@ input[type="text"] {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
     z-index: 1;
     top: 0;
     left: 0;
@@ -90,11 +91,14 @@ input[type="text"] {
     transition: transform 2s ease;
 }
 #_loadingScreen.loaded {transform: translateY(-150vh);}
+#_loadingScreen img {
+    width: 3vw;
+    animation: floating 2.5s ease infinite;
+}
 #_loadingScreen h3 {
-    font-size: 2vw;
+    font-size: 1.5vw;
     font-family: Poppins;
     color: var(--dark-grey);
-    animation: floating 2.5s ease infinite;
 }
 
 
