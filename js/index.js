@@ -109,7 +109,7 @@ function displayMarkdown(lang){
     // Quand l'utilisateur tappe un mot
     inputSearch.addEventListener("keyup", () => {
         const value = inputSearch.value.replace(" ", "");
-        if(value.length == 0) return landMd.scroll(0, 0);
+        if(value.length == 0) return langMd.scroll(0, 0);
 
         // Récupère un élément avec ce mot
         const elements = [...document.querySelectorAll("*")].filter(e => e.innerHTML.includes(value));
@@ -119,7 +119,7 @@ function displayMarkdown(lang){
             element.scrollIntoView();
             return element.classList.add("selected");
         }else{
-            return landMd.scroll(0, 0);
+            return langMd.scroll(0, 0);
         }
     });
 
