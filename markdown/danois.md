@@ -1,5 +1,5 @@
 # DANOIS
-Contributeur(s): Martin
+Contributeur(s): Martin, *Boa*
 
 
 Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
