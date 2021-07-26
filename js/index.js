@@ -116,8 +116,7 @@ function displayMarkdown(lang){
         const element = elements[elements.length - 1];
 
         if (element != undefined){
-            element.scrollIntoView();
-            return element.classList.add("selected");
+            return element.scrollIntoView();
         }else{
             return langMd.scroll(0, 0);
         }
