@@ -49,6 +49,10 @@ main {
 }
 a, a:hover, a:visited { text-decoration: none; }
 input[type="text"] {
+    width: 100%;
+    margin-bottom: 1pc;
+    font-size: .8vw;
+    
     border-radius: 5px;
     padding: 1vh;
     font-family: Poppins, sans-serif;
