@@ -6,7 +6,7 @@ Contributeur(s): Alan
 
 ![](https://i.pinimg.com/originals/e7/4d/1b/e74d1bef5d0cfb46c9ca97655c8f1b50.jpg)
 
-|Lettre info maj|Lettre info min|Prononciation|
+|Lettre info majuscule|Lettre info minuscule|Prononciation|
 |--|--|--|
 |А|а|a|
 |Б|б|b|
@@ -75,7 +75,7 @@ Contributeur(s): Alan
 
 ## Verbes
 
-- Manger :**есть**
+- Manger = **есть**
 
 |Français|Russe|
 |--|--|
@@ -86,7 +86,7 @@ Contributeur(s): Alan
 |Vous mangez|Вы едите|
 |Ils / Elles / Neutres|Они едят|
 
-- Boire : **пьёт**
+- Boire = **пьёт**
 |Français|Russe|
 |--|--|
 |||
