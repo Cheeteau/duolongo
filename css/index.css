@@ -214,6 +214,7 @@ button.tel:hover {opacity: .5;}
         overflow-x: hidden;
     }
     table {
+        width: 100%;
         margin-left: 50%;
         transform: translateX(-50%);
     }
