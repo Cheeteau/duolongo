@@ -114,7 +114,8 @@ function displayMarkdown(lang){
         if(value.length == 0) return langMd.scroll(0, 0);
 
         // Récupère un élément avec ce mot
-        const elements = [...document.querySelectorAll("td")].filter(e => e.innerHTML.includes(value));
+        const valueWithMaj = value.charAt(0).toUpperCase() + value.substr(1);
+        const elements = [...document.querySelectorAll("td")].filter(e => e.innerHTML.includes(valueWithMaj));
         const element = elements[0];
 
         // Si l'élément existe
