@@ -211,6 +211,11 @@ button.tel:hover {opacity: .5;}
     }
     section {
         padding: 3vh 6vw;
+        overflow-x: hidden;
+    }
+    table {
+        margin-left: 50%;
+        transform: translateX(-50%);
     }
     li {
         padding: .8vh 0 .8vh 6vw !important;
