@@ -17,6 +17,7 @@ Codes ALT pour les lettres Allemandes
 |Quand|Wenn|
 |Où|Wo|
 |Comment|Wie|
+|Pourquoi|Warum|
 
 
 En cours...

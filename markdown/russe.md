@@ -91,6 +91,9 @@ Contributeur(s): Alan
 
 - Boire = **пьёт**
 
+|Français|Russe|
+|--|--|
+
 
 ## Vocabulaire
 

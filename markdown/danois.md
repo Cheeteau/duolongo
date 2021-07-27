@@ -1,5 +1,5 @@
 # DANOIS
-Contributeur(s): Martin, *Boa*
+Contributeur(s): Martin, Celina
 
 
 Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
@@ -24,6 +24,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Quand|Hvornår|
 |Où|Hvor|
 |Comment|Hvordan|
+|Pourquoi|Hvorfor|
 
 
 |French|Danish|
@@ -282,6 +283,12 @@ Important words
 
 |French|Danish|Danish (Plural)|
 |--|--|--|
+|Élephant|Elefant|Elefanter|
+|Cheval|Hest|Heste|
+|Chat|Kat|Katte|
+|Oiseau|Fugl|Fugle|
+|Tortue|Skildpadde|Skildpadder|
+|Canard|And|Ænder|
 
 
 # Phrases utiles
