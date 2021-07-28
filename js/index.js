@@ -43,7 +43,7 @@ function getMarkdowns(){
     return new Promise(async (res, rej) => {
         // Parcours les markdowns à partir de la variable "available"
         for (const markdown of available){
-            const request = await (await fetch(`/dokyLangues/markdown/${markdown.name}.md`)).text();
+            const request = await (await fetch(`/duolongo/markdown/${markdown.name}.md`)).text();
             const name = markdown.name;
 
             // Ajoute le contenu du markdown dans une variable pour ne pas avoir à faire la requète à chaque fois qu'on veut l'afficher
