@@ -1,4 +1,4 @@
-# DOKY - LANGUES
+# DUOLONGO - LANGUES
 
 **Contributeurs**
 - Martin
