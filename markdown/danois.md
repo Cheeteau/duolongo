@@ -295,6 +295,9 @@ Important words
 *(Brugbare sætninger)*
 
 
+- Se présenter
+
 |French|Danish|
 |--|--|
+|Bonjour, comment ça va?|Hej, hvordan går det?|
 |Je vais bien|Jeg har det godt/fint|
