@@ -102,9 +102,10 @@ function displayMarkdown(lang){
     });
 
     // Créer un input type search pour rechercher un mot en particulier
+    const langMaj = lang.charAt(0).toUpperCase() + lang.substring(1);
     const inputSearch = document.createElement("input");
     inputSearch.type = "text";
-    inputSearch.placeholder = "Rechercher un mot";
+    inputSearch.placeholder = `Search for a word (Français/${langMaj})`;
 
     // Quand l'utilisateur tappe un mot
     inputSearch.addEventListener("keyup", () => {
