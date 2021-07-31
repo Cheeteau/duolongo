@@ -286,9 +286,16 @@ Important words
 |Élephant|Elefant|Elefanter|
 |Cheval|Hest|Heste|
 |Chat|Kat|Katte|
+|Chien|Hund|Hunde|
 |Oiseau|Fugl|Fugle|
 |Tortue|Skildpadde|Skildpadder|
 |Canard|And|Ænder|
+|Lion|Løve|Løver|
+|Crab|Krabbe|Krabber|
+|Ours|Bjørn|Bjørne|
+|Souris|Mus|Mus|
+|Araignée|Edderkop|Edderkopper|
+|Hibou|Ugle|Ugler|
 
 
 # Phrases utiles
