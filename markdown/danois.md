@@ -161,6 +161,18 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Ils disent|De siger|
 
 
+- Savoir = **?**
+
+|French|Danish|
+|--|--|
+|Je sais|Jeg ved|
+|Tu sais|Du ved|
+|Il sait|Han ved|
+|Elle sait|Hun ved|
+|Nous savons|Vi ved|
+|Ils savent|De ved|
+
+
 ## Vocabulaire
 *(Ordforråd)*
 
