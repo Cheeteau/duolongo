@@ -31,7 +31,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |--|--|
 |Un/Une|En/Et|
 |C'est|Den/Det|
-|Pas (Je ne suis pas)|Ikke (Jeg er ikke)|
+|**Négation**|Ikke|
 
 
 |French|Danish|
