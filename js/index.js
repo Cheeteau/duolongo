@@ -5,7 +5,7 @@ const contentTable = document.querySelector("#_contentTable");
 const loadingScreen = document.querySelector("#_loadingScreen");
 const buttons = document.querySelectorAll("button.tel");
 
-const markdownContents = {};
+const markdownContents = [];
 const available = [
     {
         name: "accueil",
@@ -43,20 +43,22 @@ function getMarkdowns(){
     return new Promise(async (res, rej) => {
         // Parcours les markdowns à partir de la variable "available"
         for (const markdown of available){
+            // Récupère chacun des fichiers markdown
             const request = await (await fetch(`/duolongo/markdown/${markdown.name}.md`)).text();
-            const name = markdown.name;
-
-            // Ajoute le contenu du markdown dans une variable pour ne pas avoir à faire la requète à chaque fois qu'on veut l'afficher
-            // (A optimiser)
-            markdownContents[name]["data"] = request;
             
-
             // API github => Permet de récupérer le dernier commit fait sur le fichier afin d'afficher la dernière fois qui a été mit à jour
             const commits = await (await fetch(`https://api.github.com/repos/cozax/duolongo/commits?path=markdown/${markdown.name}.md&page=1&per_page=1`)).json();
             const lastDate = commits[0].commit.author.date; // Date du commit
 
-            // Ajoute la date au json
-            markdownContents[name]["lastUpdate"] = lastDate;
+            // Ajoute toutes les infos dans un objet
+            const markdownObject = {
+                name: markdown.name
+                data: request,
+                lastUpdate: lastDate
+            }
+
+            // Le push dans une variable contenant tous les markdowns
+            markdownContents.push(markdownObject);
         }
         return res();
     });
@@ -95,7 +97,7 @@ function getTwitterFlagFromEmoji(emoji){
  */
 function displayMarkdown(lang){
     // Convertit le markdown de la langue séléctionnée en HTML
-    const markdown = markdownContents[lang];
+    const markdown = markdownContents.filter(markdown => markdown.name == lang);
     const html = converter.makeHtml(markdown.data);
 
     console.log(markdown);
