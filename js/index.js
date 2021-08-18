@@ -94,6 +94,20 @@ function getTwitterFlagFromEmoji(emoji){
 
 
 /**
+ * Calcule le nombre de jours entre deux dates
+ * @param {Date} date1 Date initiale
+ * @param {Date} date2 Date de fin
+ */
+function numberOfDays(date1, date2){
+    const diffInTime = date2.getTime() - date1.getTime();
+    const diffInDays = diffInTime / (1000 * 3600 * 24);
+
+    // Retourne la différence en jours
+    return diffInDays;
+}
+
+
+/**
  * Permet d'afficher le contenu du markdown en html à partir de l'argument langue
  * @param {string} lang Langue à afficher sur la section
  */
@@ -102,20 +116,24 @@ function displayMarkdown(lang){
     const markdown = markdownContents.filter(markdown => markdown.name == lang)[0];
     const html = converter.makeHtml(markdown.data);
 
-    // Affiche la date de la dernière mise a jour du markdown
-    const lastUpdateDate = new Date(markdown.lastUpdate);
-    console.log(lastUpdateDate);
-
-    // Vide la table de contenu et scroll tout en haut de la section contenant le markdown
+    // Vide la table de contenu et de la section contenant le markdown puis scroll tout en haut de celle-ci
     contentTable.innerHTML = "";
+    langMd.innerHTML = "";
     langMd.scroll(0, 0);
 
+    // Affiche la date de la dernière mise a jour du markdown
+    const _date = new Date(markdown.lastUpdate);
+    langMd.innerHTML += `<article id="lastUpdateInfos">Last updated: ${_date.getMonth()}/${_date.getDay()}/${_date.getFullYear()} [${numberOfDays(_date, new Date().getDate())} day(s) ago]</article>`
+
     // Ajoute le bouton pour ouvrir le aside (Visible uniquement sur téléphone) et lui permet d'ouvrir le aside lors d'un clic sur celui-ci
-    langMd.innerHTML = `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>${html}`;
+    langMd.innerHTML += `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>`;
     document.querySelector("#left").addEventListener("click", () => {
         const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
         openAside(aside);
     });
+
+    // Ajoute le html
+    langMd.append(html);
 
     // Créer un input type search pour rechercher un mot en particulier
     const langMaj = lang.charAt(0).toUpperCase() + lang.substring(1);
