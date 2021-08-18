@@ -102,8 +102,8 @@ function numberOfDays(date1, date2){
     const diffInTime = date2.getTime() - date1.getTime();
     const diffInDays = diffInTime / (1000 * 3600 * 24);
 
-    // Retourne la différence en jours
-    return diffInDays;
+    // Retourne la différence en jours (Arrondi)
+    return Math.floor(diffInDays);
 }
 
 
@@ -122,8 +122,9 @@ function displayMarkdown(lang){
     langMd.scroll(0, 0);
 
     // Affiche la date de la dernière mise a jour du markdown
+    const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
     const _date = new Date(markdown.lastUpdate);
-    langMd.innerHTML += `<article id="lastUpdateInfos">Last updated: ${_date.getMonth()}/${_date.getDay()}/${_date.getFullYear()} [${numberOfDays(_date, new Date())} day(s) ago]</article>`
+    langMd.innerHTML += `<article id="lastUpdateInfos">Last updated: <b>${months[_date.getMonth()]} ${_date.getDate()} ${_date.getFullYear()}</b> [${numberOfDays(_date, new Date())} day(s) ago]</article>`
 
     // Ajoute le bouton pour ouvrir le aside (Visible uniquement sur téléphone) et lui permet d'ouvrir le aside lors d'un clic sur celui-ci
     langMd.innerHTML += `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>`;
@@ -133,7 +134,7 @@ function displayMarkdown(lang){
     });
 
     // Ajoute le html
-    langMd.append(html);
+    langMd.innerHTML += html;
 
     // Créer un input type search pour rechercher un mot en particulier
     const langMaj = lang.charAt(0).toUpperCase() + lang.substring(1);
