@@ -31,7 +31,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |--|--|
 |Un/Une|En/Et|
 |C'est|Den/Det|
-|**Négation**|Ikke|
+|Pas (Je ne suis pas)|Ikke (Jeg er ikke)|
 
 
 |French|Danish|
@@ -161,16 +161,28 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Ils disent|De siger|
 
 
-- Savoir = **?**
+- Dormir = **Søvn**
 
 |French|Danish|
 |--|--|
-|Je sais|Jeg ved|
-|Tu sais|Du ved|
-|Il sait|Han ved|
-|Elle sait|Hun ved|
-|Nous savons|Vi ved|
-|Ils savent|De ved|
+|Je dors|Jeg sov|
+|Tu dors|Du sov|
+|Il dort|Han sov|
+|Elle dort|Hun sov|
+|Nous dormons|Vi sov|
+|Ils dorment|De sov|
+
+
+- Faire = **Gør**
+
+|French|Danish|
+|--|--|
+|Je fais|Jeg gør|
+|Tu fais|Du gør|
+|Il fait|Han gør|
+|Elle fait|Hun gør|
+|Nous faisons|Vi gør|
+|Ils font|De gør|
 
 
 ## Vocabulaire
@@ -192,6 +204,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Trop|For|
 |Pas de problème|Så lidt|
 |**Cringe**|Kre|
+|Juste|Lige|
 
 
 - Compliments | *Kompliment*
@@ -320,3 +333,4 @@ Important words
 |--|--|
 |Bonjour, comment ça va?|Hej, hvordan går det?|
 |Je vais bien|Jeg har det godt/fint|
+|De même|I lige måde|
