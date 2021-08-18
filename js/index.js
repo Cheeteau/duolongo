@@ -43,16 +43,18 @@ function getMarkdowns(){
     return new Promise(async (res, rej) => {
         // Parcours les markdowns à partir de la variable "available"
         for (const markdown of available){
+            const name = markdown.name; // Nom du markdown
+
             // Récupère chacun des fichiers markdown
-            const request = await (await fetch(`/duolongo/markdown/${markdown.name}.md`)).text();
+            const request = await (await fetch(`/duolongo/markdown/${name}.md`)).text();
             
             // API github => Permet de récupérer le dernier commit fait sur le fichier afin d'afficher la dernière fois qui a été mit à jour
-            const commits = await (await fetch(`https://api.github.com/repos/cozax/duolongo/commits?path=markdown/${markdown.name}.md&page=1&per_page=1`)).json();
+            const commits = await (await fetch(`https://api.github.com/repos/cozax/duolongo/commits?path=markdown/${name}.md&page=1&per_page=1`)).json();
             const lastDate = commits[0].commit.author.date; // Date du commit
 
             // Ajoute toutes les infos dans un objet
             const markdownObject = {
-                name: markdown.name,
+                name: name,
                 data: request,
                 lastUpdate: lastDate
             }
