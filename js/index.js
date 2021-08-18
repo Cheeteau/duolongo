@@ -123,7 +123,7 @@ function displayMarkdown(lang){
 
     // Affiche la date de la dernière mise a jour du markdown
     const _date = new Date(markdown.lastUpdate);
-    langMd.innerHTML += `<article id="lastUpdateInfos">Last updated: ${_date.getMonth()}/${_date.getDay()}/${_date.getFullYear()} [${numberOfDays(_date, new Date().getDate())} day(s) ago]</article>`
+    langMd.innerHTML += `<article id="lastUpdateInfos">Last updated: ${_date.getMonth()}/${_date.getDay()}/${_date.getFullYear()} [${numberOfDays(_date, new Date())} day(s) ago]</article>`
 
     // Ajoute le bouton pour ouvrir le aside (Visible uniquement sur téléphone) et lui permet d'ouvrir le aside lors d'un clic sur celui-ci
     langMd.innerHTML += `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>`;
