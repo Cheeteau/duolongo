@@ -49,6 +49,14 @@ function getMarkdowns(){
             // Ajoute le contenu du markdown dans une variable pour ne pas avoir à faire la requète à chaque fois qu'on veut l'afficher
             // (A optimiser)
             markdownContents[name] = request;
+            
+
+            // API github => Permet de récupérer le dernier commit fait sur le fichier afin d'afficher la dernière fois qui a été mit à jour
+            const commits = await (await fetch(`https://api.github.com/repos/cozax/duolongo/commits?path=markdown/${markdown.name}.md&page=1&per_page=1`)).json();
+            const lastDate = commits[0].commit.author.date; // Date du commit
+
+            // Ajoute la date au json
+            markdownContents[name].lastUpdate = lastDate;
         }
         return res();
     });
@@ -89,6 +97,8 @@ function displayMarkdown(lang){
     // Convertit le markdown de la langue séléctionnée en HTML
     const markdown = markdownContents[lang];
     const html = converter.makeHtml(markdown);
+
+    console.log(new Date(markdown.lastUpdate));
 
     // Vide la table de contenu et scroll tout en haut de la section contenant le markdown
     contentTable.innerHTML = "";
