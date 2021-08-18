@@ -52,7 +52,7 @@ function getMarkdowns(){
 
             // Ajoute toutes les infos dans un objet
             const markdownObject = {
-                name: markdown.name
+                name: markdown.name,
                 data: request,
                 lastUpdate: lastDate
             }
