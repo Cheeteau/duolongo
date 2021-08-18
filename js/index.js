@@ -48,7 +48,7 @@ function getMarkdowns(){
 
             // Ajoute le contenu du markdown dans une variable pour ne pas avoir à faire la requète à chaque fois qu'on veut l'afficher
             // (A optimiser)
-            markdownContents[name] = request;
+            markdownContents[name]["data"] = request;
             
 
             // API github => Permet de récupérer le dernier commit fait sur le fichier afin d'afficher la dernière fois qui a été mit à jour
@@ -56,7 +56,7 @@ function getMarkdowns(){
             const lastDate = commits[0].commit.author.date; // Date du commit
 
             // Ajoute la date au json
-            markdownContents[name].lastUpdate = lastDate;
+            markdownContents[name]["lastUpdate"] = lastDate;
         }
         return res();
     });
@@ -96,9 +96,9 @@ function getTwitterFlagFromEmoji(emoji){
 function displayMarkdown(lang){
     // Convertit le markdown de la langue séléctionnée en HTML
     const markdown = markdownContents[lang];
-    const html = converter.makeHtml(markdown);
+    const html = converter.makeHtml(markdown.data);
 
-    console.log(new Date(markdown.lastUpdate));
+    console.log(markdown);
 
     // Vide la table de contenu et scroll tout en haut de la section contenant le markdown
     contentTable.innerHTML = "";
