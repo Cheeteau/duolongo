@@ -99,10 +99,12 @@ function getTwitterFlagFromEmoji(emoji){
  */
 function displayMarkdown(lang){
     // Convertit le markdown de la langue séléctionnée en HTML
-    const markdown = markdownContents.filter(markdown => markdown.name == lang);
+    const markdown = markdownContents.filter(markdown => markdown.name == lang)[0];
     const html = converter.makeHtml(markdown.data);
 
-    console.log(markdown);
+    // Affiche la date de la dernière mise a jour du markdown
+    const lastUpdateDate = new Date(markdown.lastUpdate);
+    console.log(lastUpdateDate);
 
     // Vide la table de contenu et scroll tout en haut de la section contenant le markdown
     contentTable.innerHTML = "";
