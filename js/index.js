@@ -121,17 +121,17 @@ function displayMarkdown(lang){
     langMd.innerHTML = "";
     langMd.scroll(0, 0);
 
-    // Affiche la date de la dernière mise a jour du markdown
-    const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-    const _date = new Date(markdown.lastUpdate);
-    langMd.innerHTML += `<article id="lastUpdateInfos">Last updated: <b>${months[_date.getMonth()]} ${_date.getDate()} ${_date.getFullYear()}</b> [${numberOfDays(_date, new Date())} day(s) ago]</article>`
-
     // Ajoute le bouton pour ouvrir le aside (Visible uniquement sur téléphone) et lui permet d'ouvrir le aside lors d'un clic sur celui-ci
     langMd.innerHTML += `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>`;
     document.querySelector("#left").addEventListener("click", () => {
         const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
         openAside(aside);
     });
+
+    // Affiche la date de la dernière mise a jour du markdown
+    const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+    const _date = new Date(markdown.lastUpdate);
+    langMd.innerHTML += `<article id="lastUpdateInfos">Last updated: <b>${months[_date.getMonth()]}, ${_date.getDate()}. ${_date.getFullYear()}</b> [${numberOfDays(_date, new Date())} day(s) ago]</article>`
 
     // Ajoute le html
     langMd.innerHTML += html;
