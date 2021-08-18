@@ -185,6 +185,31 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Ils font|De gør|
 
 
+- Parler = **Tal**
+
+|French|Danish|
+|--|--|
+|Je parle|Jeg taler|
+|Tu parles|Du taler|
+|Il parle|Han taler|
+|Elle parle|Hun taler|
+|Nous parlons|Vi taler|
+|Ils parlent|De taler|
+
+
+
+- Discuter = **Snak**
+
+|French|Danish|
+|--|--|
+|Je discute|Jeg snakker|
+|Tu discutes|Du snakker|
+|Il discute|Han snakker|
+|Elle discute|Hun snakker|
+|Nous discutons|Vi snakker|
+|Ils discutent|De snakker|
+
+
 ## Vocabulaire
 *(Ordforråd)*
 
