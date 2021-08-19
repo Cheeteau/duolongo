@@ -222,6 +222,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Non|Nej|
 |Aussi|Også|
 |Merci|Tak|
+|Maintenant|Nu|
 |Jour|Dag|
 |Peut-être|Måske|
 |Désolé|Undskyld|
