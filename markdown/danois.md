@@ -349,6 +349,15 @@ Important words
 |Hibou|Ugle|Ugler|
 
 
+- École | *Skole*
+
+|French|Danish|Danish (Plural)|
+|--|--|--|
+|Collège/Lycée|Gymnasium|Gymnasier|
+|École primaire|Grundskole|Grundskoler|
+|École maternelle|Børnehave|Børnehaver|
+
+
 # Phrases utiles
 *(Brugbare sætninger)*
 
