@@ -231,6 +231,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Pas de problème|Så lidt|
 |**Cringe**|Kre|
 |Juste|Lige|
+|Petit|Lille|
 
 
 - Compliments | *Kompliment*
