@@ -1,4 +1,4 @@
-# DANOIS
+# ALLEMAND
 Contributeur(s): Martin
 
 
