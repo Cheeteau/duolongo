@@ -186,6 +186,11 @@ function displayMarkdown(lang){
         }else{
             return langMd.scroll(0, 0);
         }
+
+        document.querySelector("#left").addEventListener("click", () => {
+            const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
+            openAside(aside);
+        });
     });
 
     contentTable.append(inputSearch);
@@ -224,11 +229,6 @@ async function displayLanguages(){
 
     // Cache l'écran de chargement une fois le contenu des markdowns chargés et les langues ajoutées au aside
     loadingScreen.classList.add("loaded");
-
-    document.querySelector("#left").addEventListener("click", () => {
-        const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
-        openAside(aside);
-    });
 }
 
 
