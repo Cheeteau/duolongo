@@ -159,6 +159,7 @@ function displayMarkdown(lang){
         const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
         openAside(aside);
     });
+    langMd.append(btn);
 
     // Affiche la date de la dernière mise a jour du markdown
     const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
