@@ -151,8 +151,11 @@ function displayMarkdown(lang){
     langMd.scroll(0, 0);
 
     // Ajoute le bouton pour ouvrir le aside (Visible uniquement sur téléphone) et lui permet d'ouvrir le aside lors d'un clic sur celui-ci
-    langMd.innerHTML += `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>`;
-    document.querySelector("#left").addEventListener("click", () => {
+    const btn = document.createElement("button");
+    btn.innerHTML += `<i class="zmdi zmdi-chevron-left"></i>`;
+    btn.id = "left";
+    btn.classList.add("tel");
+    btn.addEventListener("click", () => {
         const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
         openAside(aside);
     });
