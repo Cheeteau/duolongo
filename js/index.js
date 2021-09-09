@@ -151,16 +151,7 @@ function displayMarkdown(lang){
     langMd.scroll(0, 0);
 
     // Ajoute le bouton pour ouvrir le aside (Visible uniquement sur téléphone) et lui permet d'ouvrir le aside lors d'un clic sur celui-ci
-    const btn = document.createElement("button");
-    btn.innerHTML += `<i class="zmdi zmdi-chevron-left"></i>`;
-    btn.id = "left";
-    btn.classList.add("tel");
-    btn.addEventListener("click", () => {
-        console.log("Hey I'm clicked");
-        const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
-        openAside(aside);
-    });
-    langMd.append(btn);
+    langMd.innerHTML += `<button class="tel" id="left"><i class="zmdi zmdi-chevron-left"></i></button>`;
 
     // Affiche la date de la dernière mise a jour du markdown
     const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -233,6 +224,11 @@ async function displayLanguages(){
 
     // Cache l'écran de chargement une fois le contenu des markdowns chargés et les langues ajoutées au aside
     loadingScreen.classList.add("loaded");
+
+    document.querySelector("#left").addEventListener("click", () => {
+        const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
+        openAside(aside);
+    });
 }
 
 
