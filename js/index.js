@@ -36,6 +36,35 @@ const converter = new showdown.Converter({
 
 /* Fonction */
 /**
+ * [MOBILE] Permet d'ouvrir le aside contenant la liste des langages sur téléphone
+ * @param {HTMLElement} aside Élement html du aside
+ */
+ function openAside(aside){
+    // Cache la section contenant le markdown
+    langMd.style.setProperty("width", "0", "important");
+    langMd.style.setProperty("padding", "0", "important");
+
+    // Montre le aside (Et ajoute un event pour fermer le aside lors d'un clique sur un li)
+    aside.style.setProperty("width", "100vw", "important");
+    aside.querySelectorAll("li").forEach(e => e.addEventListener("click", () => closeAside(aside)));
+}
+
+
+/**
+ * [MOBILE] Permet de fermer le aside contenant la liste des langages sur téléphone
+ * @param {HTMLElement} aside Élement html du aside
+ */
+function closeAside(aside){
+    // Montre la section contenant le markdown
+    langMd.style.setProperty("width", "100vw", "important");
+    langMd.style.setProperty("padding", "3vh 6vw", "important");
+
+    // Cache le aside
+    aside.style.setProperty("width", "0", "important");
+}
+
+
+/**
  * Récupère le contenu de tous les fichiers markdowns enregistrés à partir de la variable "available"
  * @returns Retourne un promise pour indiquer que tous les fichiers markdowns sont enregistrés
  */
@@ -199,35 +228,6 @@ async function displayLanguages(){
 
     // Cache l'écran de chargement une fois le contenu des markdowns chargés et les langues ajoutées au aside
     loadingScreen.classList.add("loaded");
-}
-
-
-/**
- * [MOBILE] Permet d'ouvrir le aside contenant la liste des langages sur téléphone
- * @param {HTMLElement} aside Élement html du aside
- */
-function openAside(aside){
-    // Cache la section contenant le markdown
-    langMd.style.setProperty("width", "0", "important");
-    langMd.style.setProperty("padding", "0", "important");
-
-    // Montre le aside (Et ajoute un event pour fermer le aside lors d'un clique sur un li)
-    aside.style.setProperty("width", "100vw", "important");
-    aside.querySelectorAll("li").forEach(e => e.addEventListener("click", () => closeAside(aside)));
-}
-
-
-/**
- * [MOBILE] Permet de fermer le aside contenant la liste des langages sur téléphone
- * @param {HTMLElement} aside Élement html du aside
- */
-function closeAside(aside){
-    // Montre la section contenant le markdown
-    langMd.style.setProperty("width", "100vw", "important");
-    langMd.style.setProperty("padding", "3vh 6vw", "important");
-
-    // Cache le aside
-    aside.style.setProperty("width", "0", "important");
 }
 
 
