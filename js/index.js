@@ -156,6 +156,7 @@ function displayMarkdown(lang){
     btn.id = "left";
     btn.classList.add("tel");
     btn.addEventListener("click", () => {
+        console.log("Hey I'm clicked");
         const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
         openAside(aside);
     });
