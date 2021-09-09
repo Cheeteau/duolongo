@@ -186,11 +186,6 @@ function displayMarkdown(lang){
         }else{
             return langMd.scroll(0, 0);
         }
-
-        document.querySelector("#left").addEventListener("click", () => {
-            const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
-            openAside(aside);
-        });
     });
 
     contentTable.append(inputSearch);
@@ -205,6 +200,11 @@ function displayMarkdown(lang){
         li.addEventListener("click", () => scrollToElement(li.textContent.toLowerCase())); // Scroll vers le header lors d'un clic sur le li lui correspondant
 
         contentTable.append(li); // Ajoute le li dans le ul de la table de contenu
+    });
+
+    document.querySelector("#left").addEventListener("click", () => {
+        const aside = document.querySelector("aside:not(#content)"); // Séléctionne le aside de gauche
+        openAside(aside);
     });
 }
 
