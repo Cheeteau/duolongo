@@ -210,6 +210,18 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Ils discutent|De snakker|
 
 
+- Comprendre = **Forstå**
+
+|French|Danish|
+|--|--|
+|Je comprend|Jeg forstår|
+|Tu comprends|Du forstår|
+|Il comprend|Han forstår|
+|Elle comprend|Hun forstår|
+|Nous comprenons|Vi forstår|
+|Ils comprennent|De forstår|
+
+
 ## Vocabulaire
 *(Ordforråd)*
 
