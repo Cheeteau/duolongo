@@ -24,8 +24,8 @@ const available = [
         emoji: "🇩🇪"
     },
     {
-        name: "turc",
-        emoji: "🇹🇷"
+        name: "espagnol",
+        emoji: "🇪🇸"
     }
 ];
 
