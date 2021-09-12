@@ -15,10 +15,10 @@ const available = [
         name: "danois",
         emoji: "🇩🇰"
     },
-    {
-        name: "russe",
-        emoji: "🇷🇺"
-    },
+    // {
+    //     name: "russe",
+    //     emoji: "🇷🇺"
+    // },
     {
         name: "allemand",
         emoji: "🇩🇪"
