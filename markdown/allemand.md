@@ -161,7 +161,6 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Ils parlent|Sie sprechen|
 
 
-
 - Discuter = **Diskutieren**
 
 |French|German|
@@ -172,6 +171,18 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Elle discute|Sie diskutiert|
 |Nous discutons|Wir diskutieren|
 |Ils discutent|Sie diskutieren|
+
+
+- Récolter = **Sammeln**
+
+|French|German|
+|--|--|
+|Je récolte|Ich sammele|
+|Tu récoltes|Du sammelst|
+|Il récolte|Er sammelt|
+|Elle récolte|Sie sammelt|
+|Nous récoltons|Wir sammeln|
+|Ils récoltent|Sie sammeln|
 
 
 ## Vocabulaire
@@ -195,6 +206,9 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Très|Zehr|
 |Pas de problème|Kein problem|
 |Juste|Nur|
+|Temps|Zeit|
+|Quotidien|Alltag|
+|Handicap|Behinderung|
 
 
 - Compliments | *Komplimente*
@@ -204,6 +218,8 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Doux|Süß|
 |Mignon|Niedlich|
 |Gentil|Nett|
+|Fort|Stark|
+|**Faible**|Schwach|
 
 
 - Salutations | *Grüße*
@@ -228,3 +244,19 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Garçon(s)|Junge|Jungen|
 |Fille(s)|Mädchen|Mädchen|
 |Enfant(s)|Kind|Kinder|
+|Sans abris|Obdachlos|Obdachlose|
+|Handicapé(s)|Behindert|Behinderte|
+
+
+- Boissons | *Getränke*
+
+|French|German|German (Plural)|
+|--|--|--|
+|Eau|Wasser|Wasser|
+|Lait|Milch|Milch|
+|Café|Kaffee|Kaffee|
+|Vin|Wein|Weine|
+|Jus|Saft|Säfte|
+|Bière|Bier|Biere|
+|Thé|Tee|Tee|
+
