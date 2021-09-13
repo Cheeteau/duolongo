@@ -222,6 +222,18 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Ils comprennent|De forstår|
 
 
+- Hocher = **Nikke**
+
+|French|Danish|
+|--|--|
+|Je hoche|Jeg **nikker**|
+|Tu hoches|Du **nikker**|
+|Il hoche|Han **nikker**|
+|Elle hoche|Hun **nikker**|
+|Nous hochons|Vi **nikker**|
+|Ils hochent|De **nikker**|
+
+
 ## Vocabulaire
 *(Ordforråd)*
 
@@ -244,6 +256,8 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |**Cringe**|Kre|
 |Juste|Lige|
 |Petit|Lille|
+|Vitesse|**Fart**|
+|Île|Ø|
 
 
 - Compliments | *Kompliment*
