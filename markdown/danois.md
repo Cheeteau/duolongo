@@ -258,6 +258,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Petit|Lille|
 |Vitesse|**Fart**|
 |Île|Ø|
+|Balais|Kost|
 
 
 - Compliments | *Kompliment*
