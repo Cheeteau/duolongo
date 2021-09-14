@@ -250,15 +250,26 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Jour|Dag|
 |Peut-être|Måske|
 |Désolé|Undskyld|
-|Joyeux|Glad|
-|Trop|For|
-|Pas de problème|Så lidt|
 |**Cringe**|Kre|
 |Juste|Lige|
-|Petit|Lille|
 |Vitesse|**Fart**|
 |Île|Ø|
-|Balais|Kost|
+
+
+- Humeurs | *Mood*
+
+|French|Danish|
+|--|--|
+|Joyeux|Glad|
+|Triste|Sørgeligt|
+
+
+- Adjectifs | *Adjektiv*
+
+|French|Danish|
+|--|--|
+|Petit|Lille|
+|Trop|For|
 
 
 - Compliments | *Kompliment*
@@ -355,7 +366,8 @@ Important words
 |Journal|Avis|Aviser|
 |Livre|Bog|Bøger|
 |Menu|Menu|Menuer|
-|Plat|Tallerken||
+|Plat|Tallerken|?|
+|Balais|Kost|Koste|
 
 
 - Animaux | *Dyr*
@@ -397,3 +409,4 @@ Important words
 |Bonjour, comment ça va?|Hej, hvordan går det?|
 |Je vais bien|Jeg har det godt/fint|
 |De même|I lige måde|
+|Pas de problème|Så lidt|
