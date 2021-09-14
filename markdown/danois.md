@@ -234,6 +234,16 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Ils hochent|De **nikker**|
 
 
+- Rencontrer = **Møde**
+|--|--|
+|Je rencontre|Jeg møder|
+|Tu rencontres|Du møder|
+|Il rencontre|Han møder|
+|Elle rencontre|Hun møder|
+|Nous rencontrons|Vi møder|
+|Ils rencontrent|De møder|
+
+
 ## Vocabulaire
 *(Ordforråd)*
 
