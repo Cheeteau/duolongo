@@ -269,6 +269,6 @@ Les noms communs prennent des majuscules.
 - Nourriture | *Essen*
 
 |French|German|German (Plural)|Genre|
-|--|--|--|--|--|
+|--|--|--|--|
 |Pain|Brot||Neutre|
 |Pomme|Apfel|Äpfel|Masculin|
