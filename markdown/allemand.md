@@ -1,11 +1,11 @@
 # ALLEMAND
-Contributeur(s): Martin
+Contributeur(s): Martin, Alan
 
 
 Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Lettres|Codes ALT|
 |--|--|
-|ß|ALT + 0223|
+|ß|ALT + 225 ou ALT + 0223|
 
 
 ## A retenir
@@ -47,6 +47,11 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Donc|also|
 |Ni|Noch|
 |Car|Denn|
+
+
+## Règles
+
+Les noms communs prennent des majuscules.
 
 
 ## Verbes
@@ -231,32 +236,39 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Bon matin|Guten Morgen|
 |Bonne nuit|Gute Nacht|
 |Bye bye|Bye bye|
-|Au revoir|Auf Wiedersehen|
+|Au revoir|Auf Wiedersehen / Tschüss|
 |Bienvenue|Willkommen|
+|A bientôt|Bis bald|
 
 
 - Personnes | *Menschen / Leute*
 
-|French|German|German (Plural)|
-|--|--|--|
-|Femme(s)|Frau|Frauen|
-|Homme(s)|Mann|Männer|
-|Garçon(s)|Junge|Jungen|
-|Fille(s)|Mädchen|Mädchen|
-|Enfant(s)|Kind|Kinder|
-|Sans abris|Obdachlos|Obdachlose|
-|Handicapé(s)|Behindert|Behinderte|
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Femme(s)|Frau|Frauen|Féminin|
+|Homme(s)|Mann|Männer|Masculin|
+|Garçon(s)|Junge|Jungen|Masculin|
+|Fille(s)|Mädchen|Mädchen|Neutre|
+|Enfant(s)|Kind|Kinder|Neutre|
+|Sans abris|Obdachlos|Obdachlose||
+|Handicapé(s)|Behindert|Behinderte||
 
 
 - Boissons | *Getränke*
 
-|French|German|German (Plural)|
-|--|--|--|
-|Eau|Wasser|Wasser|
-|Lait|Milch|Milch|
-|Café|Kaffee|Kaffee|
-|Vin|Wein|Weine|
-|Jus|Saft|Säfte|
-|Bière|Bier|Biere|
-|Thé|Tee|Tee|
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Eau|Wasser|Wasser|Neutre|
+|Lait|Milch|Milch|Féminin|
+|Café|Kaffee|Kaffee|Masculin|
+|Vin|Wein|Weine|Masculin|
+|Jus|Saft|Säfte|Masculin|
+|Bière|Bier|Biere|Neutre|
+|Thé|Tee|Tee|Masculin|
 
+- Nourriture | *Essen*
+
+|French|German|German (Plural)|Genre|
+|--|--|--|--|--|
+|Pain|Brot||Neutre|
+|Pomme|Apfel|Äpfel|Masculin|
