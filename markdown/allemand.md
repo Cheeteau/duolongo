@@ -189,6 +189,16 @@ Les noms communs prennent des majuscules.
 |Nous récoltons|Wir sammeln|
 |Ils récoltent|Sie sammeln|
 
+- Tenir/Supporter (ou Être debout) = **Stehen**
+
+- Être accroché/suspendu = **Hangen**
+
+- Être allongé = **Liegen**
+
+- Être assis = **Sitzen**
+
+- Combattre = **Kampfen**
+
 
 ## Vocabulaire
 *(Vokabel)*
@@ -240,19 +250,29 @@ Les noms communs prennent des majuscules.
 |Bienvenue|Willkommen|
 |A bientôt|Bis bald|
 
+- Directions | **
+|French|German|
+|--|--|
+|Ici|Hier|
+|A gauche|Links|
+|A droite|Rechts|
 
 - Personnes | *Menschen / Leute*
 
 |French|German|German (Plural)|Genre|
 |--|--|--|--|
-|Femme(s)|Frau|Frauen|Féminin|
-|Homme(s)|Mann|Männer|Masculin|
-|Garçon(s)|Junge|Jungen|Masculin|
-|Fille(s)|Mädchen|Mädchen|Neutre|
-|Enfant(s)|Kind|Kinder|Neutre|
-|Sans abris|Obdachlos|Obdachlose||
-|Handicapé(s)|Behindert|Behinderte||
-
+|Femme|Frau|Frauen|Féminin|
+|Homme|Mann|Männer|Masculin|
+|Garçon|Junge|Jungen|Masculin|
+|Fille|Mädchen|Mädchen|Neutre|
+|Enfant|Kind|Kinder|Neutre|
+|Soeur|Schwester|Schwestern|Féminin|
+|Frère|Bruder|Brüder|Masculin|
+|Père|Vater||Masculin|
+|Mère|Mutter||Féminin|
+|Sans abris|Obdachlos|Obdachlose|Masculin ou féminin|
+|Handicapé|Behindert|Behinderte|Masculin ou féminin|
+|Correspondant|Austauchpartner(in)||Maculin ou féminin|
 
 - Boissons | *Getränke*
 
@@ -270,5 +290,39 @@ Les noms communs prennent des majuscules.
 
 |French|German|German (Plural)|Genre|
 |--|--|--|--|
-|Pain|Brot||Neutre|
+|Pain|Brot|Brote|Neutre|
 |Pomme|Apfel|Äpfel|Masculin|
+
+- Politique / Géopolitique | *Politik/Geopolitik*
+
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Guerre|Krieg|Kriege|Masculin|
+|Combat|Kampf|Kämpfe|Masculin|
+|Guerre mondiale|Weltkrieg|Weltkriege|Masculin|
+
+- Environnement / Ecologie | *Umwelt / Ökologie*
+
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Monde|Welt|Welten|Féminin|
+
+
+- Culture / Loisir / Sport | = *Kultur / Hobbies / Sport*
+
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Film|Film|Filme|Masculin|
+|Football|Fußball|-|Masculin|
+
+- Métier | *Arbeit*
+
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Enseignant|Lehrer(in)|Lehrer(innen)|Masculin ou féminin|
+
+- Autre | *Anderes*
+
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Rêve|Traum|Träume|Masculin|
