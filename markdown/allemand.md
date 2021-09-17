@@ -199,6 +199,17 @@ Les noms communs prennent des majuscules.
 
 - Combattre = **Kampfen**
 
+- Porter (des vêtement) = **Tragen**
+
+|French|German|
+|--|--|
+|Je porte|Ich trage|
+|Tu portes|Du trägst|
+|Il porte|Er trägt|
+|Elle porte|Sie trägt|
+|Nous portons|Wir tragen|
+|Ils portent|Sie tragen|
+
 
 ## Vocabulaire
 *(Vokabel)*
@@ -292,6 +303,11 @@ Les noms communs prennent des majuscules.
 |--|--|--|--|
 |Pain|Brot|Brote|Neutre|
 |Pomme|Apfel|Äpfel|Masculin|
+|Amande|Mandel|Mandeln|Féminin|
+|Pâte d'amande|Marzipan|Marzipane|Neutre|
+|Raisin sec|Rosine|Rosinen|Féminin|
+|Sucre|Zucker|Zucker|Masculin|
+|Chocolat|Schokolade|Schokoladen|Féminin|
 
 - Politique / Géopolitique | *Politik/Geopolitik*
 
@@ -319,10 +335,52 @@ Les noms communs prennent des majuscules.
 
 |French|German|German (Plural)|Genre|
 |--|--|--|--|
+|Roi|König|Könige|Masculin|
+|Reine|Königin|Königinnen|Féminin|
 |Enseignant|Lehrer(in)|Lehrer(innen)|Masculin ou féminin|
+|Acteur|Schauspieler(in)|Schauspieler|Masculing ou féminin|
+
+- Vêtements | *Kleidung*
+
+|French|German|German (Plural)|Genre|
+|--|--|--|--|
+|Manteau|Mantel|Mäntel|Masculin|
+|Pull|Pulli|Pullis|Masculin|
+
+- Couleur | *Farbe*
+
+|French|German|
+|--|--|
+|Noir|Schwartz|
+|Vert|Grün|
+|Bleu|Blau|
+|Rouge|Rot|
+|Jaune|Gelb|
+|Marron|Braun|
+|Orange|Orange|
+|Gris|Grau|
+|Blanc|Weiß|
+|Rose|Rosa|
+
+- Adjectif | *Adjektiv*
+
+|French|German|
+|--|--|
+|Court|Kurz|
+|Long|Lang|
+|Rond/arrondi|Rund|
+|Pointu|Spitz|
+|Grand|Groß|
+|Petit|Klein|
+|Fin|Dünn|
+|Épais|Dick|
+
 
 - Autre | *Anderes*
 
 |French|German|German (Plural)|Genre|
 |--|--|--|--|
 |Rêve|Traum|Träume|Masculin|
+|Château|Schloss|Schlösser|Neutre|
+|Argent (monnaie)|Geld|Gelder|Neutre|
+|Surnom|Spitzname|Spitznamen|Masculin|
