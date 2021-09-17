@@ -199,7 +199,7 @@ Les noms communs prennent des majuscules.
 
 - Combattre = **Kampfen**
 
-- Porter (des vêtement) = **Tragen**
+- Porter (des vêtements) = **Tragen**
 
 |French|German|
 |--|--|
@@ -262,6 +262,7 @@ Les noms communs prennent des majuscules.
 |A bientôt|Bis bald|
 
 - Directions | **
+
 |French|German|
 |--|--|
 |Ici|Hier|
