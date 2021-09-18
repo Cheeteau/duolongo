@@ -235,6 +235,8 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 
 
 - Rencontrer = **Møde**
+
+|French|Danish|
 |--|--|
 |Je rencontre|Jeg møder|
 |Tu rencontres|Du møder|
