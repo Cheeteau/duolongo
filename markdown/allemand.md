@@ -49,7 +49,7 @@ Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Car|Denn|
 
 
-## Règles
+## Regles
 
 Les noms communs prennent des majuscules.
 
