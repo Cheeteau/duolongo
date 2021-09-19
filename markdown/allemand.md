@@ -261,6 +261,7 @@ Les noms communs prennent des majuscules.
 |Bienvenue|Willkommen|
 |A bientôt|Bis bald|
 
+
 - Directions | **
 
 |French|German|
@@ -268,6 +269,7 @@ Les noms communs prennent des majuscules.
 |Ici|Hier|
 |A gauche|Links|
 |A droite|Rechts|
+
 
 - Personnes | *Menschen / Leute*
 
@@ -286,6 +288,7 @@ Les noms communs prennent des majuscules.
 |Handicapé|Behindert|Behinderte|Masculin ou féminin|
 |Correspondant|Austauchpartner(in)||Maculin ou féminin|
 
+
 - Boissons | *Getränke*
 
 |French|German|German (Plural)|Genre|
@@ -297,6 +300,7 @@ Les noms communs prennent des majuscules.
 |Jus|Saft|Säfte|Masculin|
 |Bière|Bier|Biere|Neutre|
 |Thé|Tee|Tee|Masculin|
+
 
 - Nourriture | *Essen*
 
@@ -310,6 +314,7 @@ Les noms communs prennent des majuscules.
 |Sucre|Zucker|Zucker|Masculin|
 |Chocolat|Schokolade|Schokoladen|Féminin|
 
+
 - Politique / Géopolitique | *Politik/Geopolitik*
 
 |French|German|German (Plural)|Genre|
@@ -317,6 +322,7 @@ Les noms communs prennent des majuscules.
 |Guerre|Krieg|Kriege|Masculin|
 |Combat|Kampf|Kämpfe|Masculin|
 |Guerre mondiale|Weltkrieg|Weltkriege|Masculin|
+
 
 - Environnement / Ecologie | *Umwelt / Ökologie*
 
@@ -332,6 +338,7 @@ Les noms communs prennent des majuscules.
 |Film|Film|Filme|Masculin|
 |Football|Fußball|-|Masculin|
 
+
 - Métier | *Arbeit*
 
 |French|German|German (Plural)|Genre|
@@ -341,12 +348,14 @@ Les noms communs prennent des majuscules.
 |Enseignant|Lehrer(in)|Lehrer(innen)|Masculin ou féminin|
 |Acteur|Schauspieler(in)|Schauspieler|Masculing ou féminin|
 
+
 - Vêtements | *Kleidung*
 
 |French|German|German (Plural)|Genre|
 |--|--|--|--|
 |Manteau|Mantel|Mäntel|Masculin|
 |Pull|Pulli|Pullis|Masculin|
+
 
 - Couleur | *Farbe*
 
@@ -363,8 +372,10 @@ Les noms communs prennent des majuscules.
 |Blanc|Weiß|
 |Rose|Rosa|
 
+
 - Temps | *Zeit*
-|French|German|German (Plural)|Genre||
+
+|French|German|German (Plural)|Genre|
 |--|--|--|--|
 |Lundi|Montag|Montage|Masculin|
 |Mardi|Dienstag|Dienstage|Masculin|
@@ -376,6 +387,7 @@ Les noms communs prennent des majuscules.
 |Noël|Weihnachten|Weihnachten|Neutre|
 |Vacance|//|Ferien|//|
 |(une) Heure [quantité]|Stunde|Stunden|Féminin|
+
 
 - Adjectif | *Adjektiv*
 
