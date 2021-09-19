@@ -363,6 +363,20 @@ Les noms communs prennent des majuscules.
 |Blanc|Weiß|
 |Rose|Rosa|
 
+- Temps | *Zeit*
+|French|German|German (Plural)|Genre||
+|--|--|--|--|
+|Lundi|Montag|Montage|Masculin|
+|Mardi|Dienstag|Dienstage|Masculin|
+|Mercredi|Mittwoch|Mittwoche|Masculin|
+|Jeudi|Donnerstag|Donnerstage|Masculin|
+|Vendredi|Freitag|Freitage|Masculin|
+|Samedi|Samstag|Samstage|Masculin|
+|Dimanche|Sonntag|Sonntage|Masculin|
+|Noël|Weihnachten|Weihnachten|Neutre|
+|Vacance|//|Ferien|//|
+|(une) Heure [quantité]|Stunde|Stunden|Féminin|
+
 - Adjectif | *Adjektiv*
 
 |French|German|
@@ -385,3 +399,5 @@ Les noms communs prennent des majuscules.
 |Château|Schloss|Schlösser|Neutre|
 |Argent (monnaie)|Geld|Gelder|Neutre|
 |Surnom|Spitzname|Spitznamen|Masculin|
+|Livre|Buch|Bücher|Neutre|
+|Journal|Zeitung|Zeitungen|Féminin|
