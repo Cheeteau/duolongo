@@ -201,6 +201,8 @@ Les noms communs prennent des majuscules.
 
 - Porter (des vêtements) = **Tragen**
 
+- Découvrir = **Entdecken**
+
 |French|German|
 |--|--|
 |Je porte|Ich trage|
@@ -343,6 +345,9 @@ Les noms communs prennent des majuscules.
 
 |French|German|German (Plural)|Genre|
 |--|--|--|--|
+|Monde du travail|Berufswelt|-|Féminin|
+|Vie professionnel|Arbeitsleben|-|Neutre|
+|Orientation (professionnelle)|Berufsorientierung|-|Féminin|
 |Roi|König|Könige|Masculin|
 |Reine|Königin|Königinnen|Féminin|
 |Enseignant|Lehrer(in)|Lehrer(innen)|Masculin ou féminin|
@@ -401,6 +406,12 @@ Les noms communs prennent des majuscules.
 |Petit|Klein|
 |Fin|Dünn|
 |Épais|Dick|
+|Enrichissant|Bereichern|
+|Instructif|Instruktiv / Lehrreicht|
+|Confiant (en sois) / Confident|Selbstbewusst|
+|(In)dépendant|(Un)abhängig|
+|Fier|Stolz|
+|(Être) responsable|Verantwortungsvoll |
 
 
 - Autre | *Anderes*
@@ -413,3 +424,6 @@ Les noms communs prennent des majuscules.
 |Surnom|Spitzname|Spitznamen|Masculin|
 |Livre|Buch|Bücher|Neutre|
 |Journal|Zeitung|Zeitungen|Féminin|
+|Experience|Erfahrung|Erfahrungen|Féminin|
+|Appartement|Wohnung|Wohnungen|Féminin|
+|Fierté|Stolz|-|Masculin|
