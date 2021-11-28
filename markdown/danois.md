@@ -234,7 +234,7 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Ils hochent|De **nikker**|
 
 
-- Rencontrer = **Møde**
+- sensr = **Møde**
 
 |French|Danish|
 |--|--|
@@ -244,6 +244,18 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Elle rencontre|Hun møder|
 |Nous rencontrons|Vi møder|
 |Ils rencontrent|De møder|
+
+
+- Sentir (se sentir) = **Føle**
+
+|French|Danish|
+|--|--|
+|Je sens|Jeg føler|
+|Tu sens|Du føler|
+|Il sent|Han føler|
+|Elle sent|Hun føler|
+|Nous sentons|Vi føler|
+|Ils sentent|De føler|
 
 
 ## Vocabulaire
@@ -284,13 +296,15 @@ Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*
 |Trop|For|
 
 
-- Compliments | *Kompliment*
+- Compliments (Ou non) | *Kompliment (eller ikke)*
 
 |French|Danish|
 |--|--|
 |Doux|Sød|
 |Mignon|Nuttet|
 |Gentil|Venlig|
+|Bon|Godt|
+|Mauvais|Dårlig|
 
 
 - Salutations | *Hilsner*
@@ -422,3 +436,4 @@ Important words
 |Je vais bien|Jeg har det godt/fint|
 |De même|I lige måde|
 |Pas de problème|Så lidt|
+|J'ai confiance en *quelqu'un*|Jeg stoler på *nogen*|
