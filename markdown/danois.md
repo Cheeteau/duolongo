@@ -364,7 +364,7 @@ Important words
 |Œuf|Æg|Æg|
 |Fromage|Ost|Ost|
 |Pâte|Pasta|Pasta|
-|Glâce|Is|Is|
+|Glace|Is|Is|
 |Gateau|Kage|Kager|
 |Soupe|Suppe|Supper|
 |Huile|Olie|Olier|
