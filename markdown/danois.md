@@ -1,5 +1,4 @@
 # DANOIS
-Contributeur(s): Martin, Celina
 
 
 Codes ALT pour les lettres Danoises *(ALT-koder for danske bogstaver)*

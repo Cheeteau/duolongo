@@ -1,4 +1,3 @@
 # ESPAGNOL
-Contributeur(s): Valentin
 
-En cours
+En cours... 🤨

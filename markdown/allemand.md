@@ -1,6 +1,4 @@
 # ALLEMAND
-Contributeur(s): Martin, Alan
-
 
 Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Lettres|Codes ALT|

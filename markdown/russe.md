@@ -1,5 +1,4 @@
 # RUSSE
-Contributeur(s): Alan
 
 
 ## Alphabet
