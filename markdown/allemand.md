@@ -1,5 +1,7 @@
 # ALLEMAND
 
+⚠️ Certaines erreurs peuvent se trouver ici.
+
 Codes ALT pour les lettres Allemandes *(ALT-Codes für deutsche Briefe)*
 |Lettres|Codes ALT|
 |--|--|
@@ -349,7 +351,8 @@ Les noms communs prennent des majuscules.
 |Roi|König|Könige|Masculin|
 |Reine|Königin|Königinnen|Féminin|
 |Enseignant|Lehrer(in)|Lehrer(innen)|Masculin ou féminin|
-|Acteur|Schauspieler(in)|Schauspieler|Masculing ou féminin|
+|Acteur|Schauspieler(in)|Schauspieler|Masculin ou féminin|
+|Héros|Held(in)|Helder / Heldinnen|Masculin ou féminin|
 
 
 - Vêtements | *Kleidung*
@@ -409,7 +412,7 @@ Les noms communs prennent des majuscules.
 |Confiant (en sois) / Confident|Selbstbewusst|
 |(In)dépendant|(Un)abhängig|
 |Fier|Stolz|
-|(Être) responsable|Verantwortungsvoll |
+|(Être) responsable|Verantwortungsvoll|
 
 
 - Autre | *Anderes*
@@ -425,3 +428,5 @@ Les noms communs prennent des majuscules.
 |Experience|Erfahrung|Erfahrungen|Féminin|
 |Appartement|Wohnung|Wohnungen|Féminin|
 |Fierté|Stolz|-|Masculin|
+|Extraordinaire|Außerordentlich|-|-|
+|Relation|Verhältnis|Verhältnisen|Féminin|
