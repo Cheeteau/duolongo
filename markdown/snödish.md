@@ -201,7 +201,7 @@ Les préfixes s'ajoutent avec un ordre précis:
 |appliquer|æply|
 |attendre|hvæit|
 |éviter|avöþd|
-|envoyer|zfd|
+|envoyer|zend|
 |expliquer|explæn|
 |retourner|ræþurn|
 |vendre|zel|
@@ -230,7 +230,7 @@ Les préfixes s'ajoutent avec un ordre précis:
 |marcher|hvælk|
 |couvrir|köfr|
 |améliorer|æmrhöf|
-|tendre|tfd|
+|tendre|tænd|
 |élever|ræz|
 |dessiner|dræv|
 |oublier|forgæþ|
@@ -245,12 +245,12 @@ Les préfixes s'ajoutent avec un ordre précis:
 |se produire|okkur|
 |écouter|lætzef|
 |maintenir|maændaæn|
-|terminer|efd|
+|terminer|ænd|
 |exister|exætz|
 |appercevoir|sik|
 |grandir|grhöv|
 |vérifier|khjæk|
-|servir|zrf|
+|servir|zerf|
 |partager|khære|
 |établir|æþzablækh|
 |entrer|efder|
@@ -323,7 +323,7 @@ Les préfixes s'ajoutent avec un ordre précis:
 |performer|perform|
 |découvrir|dæskofr|
 |exprimer|expreþ|
-|étendre|extfd|
+|étendre|extænd|
 |boire|drænk|
 |mentionner|mendæon|
 |varier|vari|
