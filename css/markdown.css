@@ -49,6 +49,7 @@ th, td {
     padding: .5pc;
     border: 1px solid var(--main-grey);
     width:20%;
+    text-transform: capitalize;
 }
 td { text-align:center; }
 caption { font-weight:bold }
