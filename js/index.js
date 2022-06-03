@@ -27,10 +27,10 @@ const available = [
     //     name: "espagnol",
     //     emoji: "🇪🇸"
     // }
-    {
-        name: "snödish",
-        img: "img/snodish.svg"
-    }
+    // {
+    //     name: "snödish",
+    //     img: "img/snodish.svg"
+    // }
 ];
 
 const converter = new showdown.Converter({
