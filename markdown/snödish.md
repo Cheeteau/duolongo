@@ -105,27 +105,3 @@ Les préfixes s'ajoutent avec un ordre précis:
 
 ## Verbes
 
-*Verbes basiques*
-
-- Être = **Bin**
-
-|French|Danish|
-|--|--|
-|Je suis|Jö bin|
-|Tu es/Vous êtes|Dæ bin|
-|Il est|Hem bin|
-|Elle est|Hef bin|
-|Nous sommes|Vi bin|
-|Ils/Elles sont|Hes bin|
-
-
-- Avoir = **Haf**
-
-|French|Danish|
-|--|--|
-|J'ai|Jö haf|
-|Tu as/Vous avez|Dæ haf|
-|Il a|Hem haf|
-|Elle a|Hef haf|
-|Nous avons|Vi haf|
-|Ils/Elles ont|Hes haf|
