@@ -20,7 +20,7 @@ La structure du *snödish* est de la forme **SVO**, c'est à dire `Sujet Verbe O
 - Pour les verbes c'est pas trop dur, la terminaison est la même pour chacuns des pronoms.
 - Au passé, **ög** est ajouté comme suffixe aux verbes, et au futur **æg**.
 - Les temps sont **passé**, **présent** & **futur**.
-- Au féminin, les noms ont comme préfixe la lettre **e**.
+- Pas de genres (Pas de masculin/féminin)
 - Au pluriel, les noms ont comme préfixe la lettre **i**.
 
 Les préfixes s'ajoutent avec un ordre précis:
