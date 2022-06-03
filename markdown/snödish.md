@@ -24,7 +24,7 @@ La structure du *snödish* est de la forme **SVO**, c'est à dire `Sujet Verbe O
 - Au pluriel, les noms ont comme préfixe la lettre **i**.
 
 Les préfixes s'ajoutent avec un ordre précis:
-`Nom + e (si féminin) + i (si pluriel)`
+`Nom + i (si pluriel)`
 
 
 ## Pronoms
