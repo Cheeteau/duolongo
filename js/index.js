@@ -23,9 +23,13 @@ const available = [
         name: "allemand",
         emoji: "🇩🇪"
     },
+    // {
+    //     name: "espagnol",
+    //     emoji: "🇪🇸"
+    // }
     {
-        name: "espagnol",
-        emoji: "🇪🇸"
+        name: "snödish",
+        img: "img/snodish.svg"
     }
 ];
 
@@ -75,17 +79,30 @@ function getMarkdowns(){
             const name = markdown.name; // Nom du markdown
 
             // Récupère chacun des fichiers markdown
-            const request = await (await fetch(`/duolongo/markdown/${name}.md`)).text();
-            
-            // API github => Permet de récupérer le dernier commit fait sur le fichier afin d'afficher la dernière fois qui a été mit à jour
-            const commits = await (await fetch(`https://api.github.com/repos/cozax/duolongo/commits?path=markdown/${name}.md&page=1&per_page=1`)).json();
-            const lastDate = commits[0].commit.author.date; // Date du commit
+            let request;
+            const local = ["localhost", "127.0.0.1"];
 
-            // Ajoute toutes les infos dans un objet
-            const markdownObject = {
-                name: name,
-                data: request,
-                lastUpdate: lastDate
+            if (!local.includes(window.location.hostname)) request = await (await fetch(`/duolongo/markdown/${name}.md`)).text();
+            else request = await (await fetch(`./markdown/${name}.md`)).text();
+
+            // API github => Permet de récupérer le dernier commit fait sur le fichier afin d'afficher la dernière fois qui a été mit à jour
+            let markdownObject;
+            try {
+                const commits = await (await fetch(`https://api.github.com/repos/cozax/duolongo/commits?path=markdown/${name}.md&page=1&per_page=1`)).json();
+                const lastDate = commits[0].commit.author.date; // Date du commit
+    
+                // Ajoute toutes les infos dans un objet
+                markdownObject = {
+                    name: name,
+                    data: request,
+                    lastUpdate: lastDate
+                }
+            } catch(e) {
+                markdownObject = {
+                    name: name,
+                    data: request,
+                    lastUpdate: null
+                }
             }
 
             // Le push dans une variable contenant tous les markdowns
@@ -220,7 +237,7 @@ async function displayLanguages(){
         const li = document.createElement("li");
         const langName = lang.name.charAt(0).toUpperCase() + lang.name.substring(1);
 
-        li.innerHTML = `<img class="flags" src="${getTwitterFlagFromEmoji(lang.emoji)}"> ${langName}`; // Récupère l'émoji twitter à partir de l'émoji stocké dans "lang"
+        li.innerHTML = `<img class="flags" src="${lang.emoji ? getTwitterFlagFromEmoji(lang.emoji) : lang.img}"> ${langName}`; // Récupère l'émoji twitter à partir de l'émoji stocké dans "lang"
         li.addEventListener("click", () => displayMarkdown(lang.name)); // Affiche le contenu du markdown lors d'un clique sur le li
 
         langsList.append(li);
